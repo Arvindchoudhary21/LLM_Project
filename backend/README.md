@@ -40,6 +40,7 @@ Purpose:
 This is the ASGI server used to run the FastAPI app.
 Command used:
 uvicorn main:app --reload
+
 Why we chose it:
 Required to serve FastAPI with live reloading in development.
 
@@ -49,6 +50,7 @@ Used to connect with the Qdrant vector database, including:
 •	Creating a collection (biology-chapters)
 •	Uploading embeddings to Qdrant
 •	Performing semantic search with search() API
+
 Why we chose it:
 It’s the official Python client for Qdrant.
 
@@ -60,11 +62,12 @@ Example:
 from sentence_transformers import SentenceTransformer
 model = SentenceTransformer('all-MiniLM-L6-v2')
 embedding = model.encode(text)
+
 Why we chose it:
 Lightweight, fast, accurate — works well for sentence-level embeddings.
 
 
-✅ 1. Created the FastAPI App (main.py)
+✅ 1. Created the FastAPI App (main.py).
 We initialized a FastAPI app to serve our API routes.
 
 ✅ 2. Loaded SentenceTransformer (embeddings.py)
