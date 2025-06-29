@@ -3,11 +3,17 @@
 1. Set up the project
 
 Created a Python project folder named backend
+
 Created core files:
+
 main.py -> (FastAPI app)
+
 qdrant_utils.py -> (Qdrant setup & insert)
+
 search.py -> (semantic search function)
+
 embeddings.py -> (embedding model)
+
 data_loader.py -> (to uplaod the data to the qdrant database)
 
 Step 2: Installed All Packages from requirements.txt
