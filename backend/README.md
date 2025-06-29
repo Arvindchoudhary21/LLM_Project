@@ -2,7 +2,7 @@
 
 1. Set up the project
 
-Created a Python project folder named backend/.
+Created a Python project folder named backend
 Created core files:
 main.py -> (FastAPI app)
 qdrant_utils.py -> (Qdrant setup & insert)
