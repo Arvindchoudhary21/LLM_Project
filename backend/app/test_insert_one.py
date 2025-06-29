@@ -30,4 +30,4 @@ client.upsert(
     points=[point]
 )
 
-print("✅ Definition uploaded to Qdrant!")
+print("Definition uploaded to Qdrant!")

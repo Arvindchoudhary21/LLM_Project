@@ -19,7 +19,7 @@ def recreate_collection():
             distance=Distance.COSINE
         )
     )
-    print(f"✅ Collection '{COLLECTION_NAME}' has been recreated (old data deleted).")
+    print(f"Collection '{COLLECTION_NAME}' has been recreated (old data deleted).")
 
 # Run this if the script is executed directly
 if __name__ == "__main__":

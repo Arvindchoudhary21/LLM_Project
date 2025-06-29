@@ -32,7 +32,7 @@ def upload_definitions():
         points=points
     )
 
-    print(f"✅ Uploaded {len(points)} definitions to Qdrant.")
+    print(f"Uploaded {len(points)} definitions to Qdrant.")
 
 # Step 3: Run if executed directly
 if __name__ == "__main__":
