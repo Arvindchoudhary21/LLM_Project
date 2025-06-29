@@ -1,0 +1,3518 @@
+[
+  {
+    "id": "definition-1",
+    "chapter": "The Living World",
+    "title": "Biodiversity",
+    "content": "The number of species that are known and described range between 1.7-1.8 million. This refers to biodiversity or the number and types of organisms present on earth."
+  },
+  {
+    "id": "definition-2",
+    "chapter": "The Living World",
+    "title": "Nomenclature",
+    "content": "Hence, there is a need to standardise the naming of living organisms such that a particular organism is known by the same name all over the world. This process is called nomenclature."
+  },
+  {
+    "id": "definition-3",
+    "chapter": "The Living World",
+    "title": "Identification",
+    "content": "Obviously, nomenclature or naming is only possible when the organism is described correctly and we know to what organism the name is attached to. This is identification."
+  },
+  {
+    "id": "definition-4",
+    "chapter": "The Living World",
+    "title": "Binomial nomenclature",
+    "content": "Each name has two components – the Generic name and the specific epithet. This system of providing a name with two components is called Binomial nomenclature."
+  },
+  {
+    "id": "definition-5",
+    "chapter": "The Living World",
+    "title": "Classification",
+    "content": "Since it is nearly impossible to study all the living organisms, it is necessary to devise some means to make this possible. This process is classification. Classification is the process by which anything is grouped into convenient categories based on some easily observable characters."
+  },
+  {
+    "id": "definition-6",
+    "chapter": "The Living World",
+    "title": "Taxa",
+    "content": "The scientific term for these categories is taxa. Here you must recognise that taxa can indicate categories at very different levels."
+  },
+  {
+    "id": "definition-7",
+    "chapter": "The Living World",
+    "title": "Taxonomy",
+    "content": "Hence, based on characteristics, all living organisms can be classified into different taxa. This process of classification is taxonomy."
+  },
+  {
+    "id": "definition-8",
+    "chapter": "The Living World",
+    "title": "Systematics",
+    "content": "Human beings were, since long, not only interested in knowing more about different kinds of organisms and their diversities, but also the relationships among them. This branch of study was referred to as systematics. The word systematics is derived from the Latin word ‘systema’ which means systematic arrangement of organisms."
+  },
+  {
+    "id": "definition-9",
+    "chapter": "Taxonomic Categories",
+    "title": "Taxonomic Category",
+    "content": "Classification is not a single step process but involves hierarchy of steps in which each step represents a rank or category. Since the category is a part of overall taxonomic arrangement, it is called the taxonomic category and all categories together constitute the taxonomic hierarchy."
+  },
+  {
+    "id": "definition-10",
+    "chapter": "Taxonomic Categories",
+    "title": "Taxon",
+    "content": "Each category, referred to as a unit of classification, in fact, represents a rank and is commonly termed as taxon (pl.: taxa)."
+  },
+  {
+    "id": "definition-11",
+    "chapter": "Taxonomic Categories",
+    "title": "Species",
+    "content": "Taxonomic studies consider a group of individual organisms with fundamental similarities as a species."
+  },
+  {
+    "id": "definition-12",
+    "chapter": "Taxonomic Categories",
+    "title": "Genus",
+    "content": "Genus comprises a group of related species which has more characters in common in comparison to species of other genera. We can say that genera are aggregates of closely related species."
+  },
+  {
+    "id": "definition-13",
+    "chapter": "Taxonomic Categories",
+    "title": "Family",
+    "content": "The next category, Family, has a group of related genera with still less number of similarities as compared to genus and species."
+  },
+  {
+    "id": "definition-14",
+    "chapter": "Taxonomic Categories",
+    "title": "Order",
+    "content": "Order being a higher category, is the assemblage of families which exhibit a few similar characters."
+  },
+  {
+    "id": "definition-15",
+    "chapter": "Taxonomic Categories",
+    "title": "Class",
+    "content": "This category includes related orders."
+  },
+  {
+    "id": "definition-16",
+    "chapter": "Taxonomic Categories",
+    "title": "Phylum",
+    "content": "Classes comprising animals like fishes, amphibians, reptiles, birds along with mammals constitute the next higher category called Phylum. All these, based on the common features like presence of notochord and dorsal hollow neural system, are included in phylum Chordata. In case of plants, classes with a few similar characters are assigned to a higher category called Division."
+  },
+  {
+    "id": "definition-17",
+    "chapter": "Taxonomic Categories",
+    "title": "Kingdom",
+    "content": "All animals belonging to various phyla are assigned to the highest category called Kingdom Animalia in the classification system of animals. The Kingdom Plantae, on the other hand, is distinct, and comprises all plants from various divisions. Henceforth, we will refer to these two groups as animal and plant kingdoms."
+  },
+  {
+    "id": "definition-18",
+    "chapter": "The Living World",
+    "title": "Taxonomy",
+    "content": "In order to facilitate the study of kinds and diversity of organisms, biologists have evolved certain rules and principles for identification, nomenclature and classification of organisms. The branch of knowledge dealing with these aspects is referred to as taxonomy."
+  },
+  {
+    "id": "definition-19",
+    "chapter": "Kingdom Monera",
+    "title": "Five Kingdom Classification",
+    "content": "R.H. Whittaker (1969) proposed a Five Kingdom Classification. The kingdoms defined by him were named Monera, Protista, Fungi, Plantae and Animalia."
+  },
+  {
+    "id": "definition-20",
+    "chapter": "Kingdom Monera",
+    "title": "Kingdom Monera",
+    "content": "Bacteria are the sole members of the Kingdom Monera."
+  },
+  {
+    "id": "definition-21",
+    "chapter": "Kingdom Monera",
+    "title": "Coccus (pl.: cocci)",
+    "content": "the spherical Coccus (pl.: cocci)"
+  },
+  {
+    "id": "definition-22",
+    "chapter": "Kingdom Monera",
+    "title": "Bacillus (pl.: bacilli)",
+    "content": "the rod-shaped Bacillus (pl.: bacilli)"
+  },
+  {
+    "id": "definition-23",
+    "chapter": "Kingdom Monera",
+    "title": "Vibrium (pl.: vibrio)",
+    "content": "the comma-shaped Vibrium (pl.: vibrio)"
+  },
+  {
+    "id": "definition-24",
+    "chapter": "Kingdom Monera",
+    "title": "Spirillum (pl.: spirilla)",
+    "content": "and the spiral Spirillum (pl.: spirilla)"
+  },
+  {
+    "id": "definition-25",
+    "chapter": "Kingdom Monera",
+    "title": "Autotrophic bacteria",
+    "content": "Some of the bacteria are autotrophic, i.e., they synthesise their own food from inorganic substrates. They may be photosynthetic autotrophic or chemosynthetic autotrophic."
+  },
+  {
+    "id": "definition-26",
+    "chapter": "Kingdom Monera",
+    "title": "Heterotrophic bacteria",
+    "content": "The vast majority of bacteria are heterotrophs, i.e., they depend on other organisms or on dead organic matter for food."
+  },
+  {
+    "id": "definition-27",
+    "chapter": "Kingdom Monera",
+    "title": "Archaebacteria",
+    "content": "These bacteria are special since they live in some of the most harsh habitats such as extreme salty areas (halophiles), hot springs (thermoacidophiles) and marshy areas (methanogens). Archaebacteria differ from other bacteria in having a different cell wall structure and this feature is responsible for their survival in extreme conditions."
+  },
+  {
+    "id": "definition-28",
+    "chapter": "Kingdom Monera",
+    "title": "Methanogens",
+    "content": "Methanogens are present in the gut of several ruminant animals such as cows and buffaloes and they are responsible for the production of methane (biogas) from the dung of these animals."
+  },
+  {
+    "id": "definition-29",
+    "chapter": "Kingdom Monera",
+    "title": "Eubacteria",
+    "content": "There are thousands of different eubacteria or ‘true bacteria’. They are characterised by the presence of a rigid cell wall, and if motile, a flagellum."
+  },
+  {
+    "id": "definition-30",
+    "chapter": "Kingdom Monera",
+    "title": "Cyanobacteria",
+    "content": "The cyanobacteria (also referred to as blue-green algae) have chlorophyll a similar to green plants and are photosynthetic autotrophs."
+  },
+  {
+    "id": "definition-31",
+    "chapter": "Kingdom Monera",
+    "title": "Heterocysts",
+    "content": "Some of these organisms can fix atmospheric nitrogen in specialised cells called heterocysts, e.g., Nostoc and Anabaena."
+  },
+  {
+    "id": "definition-32",
+    "chapter": "Kingdom Monera",
+    "title": "Mycoplasma",
+    "content": "The Mycoplasma are organisms that completely lack a cell wall. They are the smallest living cells known and can survive without oxygen. Many mycoplasma are pathogenic in animals and plants."
+  },
+  {
+    "id": "definition-33",
+    "chapter": "Kingdom Protista",
+    "title": "Kingdom Protista",
+    "content": "All single-celled eukaryotes are placed under Protista, but the boundaries of this kingdom are not well defined."
+  },
+  {
+    "id": "definition-34",
+    "chapter": "Kingdom Protista",
+    "title": "Chrysophytes",
+    "content": "This group includes diatoms and golden algae (desmids)."
+  },
+  {
+    "id": "definition-35",
+    "chapter": "Kingdom Protista",
+    "title": "Diatomaceous earth",
+    "content": "Thus, diatoms have left behind large amount of cell wall deposits in their habitat; this accumulation over billions of years is referred to as ‘diatomaceous earth’."
+  },
+  {
+    "id": "definition-36",
+    "chapter": "Kingdom Protista",
+    "title": "Dinoflagellates",
+    "content": "These organisms are mostly marine and photosynthetic."
+  },
+  {
+    "id": "definition-37",
+    "chapter": "Kingdom Protista",
+    "title": "Red tides",
+    "content": "Very often, red dinoflagellates (Example: Gonyaulax) undergo such rapid multiplication that they make the sea appear red (red tides)."
+  },
+  {
+    "id": "definition-38",
+    "chapter": "Kingdom Protista",
+    "title": "Euglenoids",
+    "content": "Majority of them are fresh water organisms found in stagnant water. Instead of a cell wall, they have a protein rich layer called pellicle which makes their body flexible."
+  },
+  {
+    "id": "definition-39",
+    "chapter": "Kingdom Protista",
+    "title": "Pellicle",
+    "content": "Instead of a cell wall, they have a protein rich layer called pellicle which makes their body flexible."
+  },
+  {
+    "id": "definition-40",
+    "chapter": "Kingdom Protista",
+    "title": "Slime Moulds",
+    "content": "Slime moulds are saprophytic protists. The body moves along decaying twigs and leaves engulfing organic material."
+  },
+  {
+    "id": "definition-41",
+    "chapter": "Kingdom Protista",
+    "title": "Plasmodium (slime moulds)",
+    "content": "Under suitable conditions, they form an aggregation called plasmodium which may grow and spread over several feet."
+  },
+  {
+    "id": "definition-42",
+    "chapter": "Kingdom Protista",
+    "title": "Protozoans",
+    "content": "All protozoans are heterotrophs and live as predators or parasites. They are believed to be primitive relatives of animals."
+  },
+  {
+    "id": "definition-43",
+    "chapter": "Kingdom Protista",
+    "title": "Amoeboid protozoans",
+    "content": "These organisms live in fresh water, sea water or moist soil. They move and capture their prey by putting out pseudopodia (false feet) as in Amoeba."
+  },
+  {
+    "id": "definition-44",
+    "chapter": "Kingdom Protista",
+    "title": "Flagellated protozoans",
+    "content": "The members of this group are either free-living or parasitic. They have flagella."
+  },
+  {
+    "id": "definition-45",
+    "chapter": "Kingdom Protista",
+    "title": "Ciliated protozoans",
+    "content": "These are aquatic, actively moving organisms because of the presence of thousands of cilia. They have a cavity (gullet) that opens to the outside of the cell surface."
+  },
+  {
+    "id": "definition-46",
+    "chapter": "Kingdom Protista",
+    "title": "Sporozoans",
+    "content": "This includes diverse organisms that have an infectious spore-like stage in their life cycle."
+  },
+  {
+    "id": "definition-47",
+    "chapter": "Kingdom Fungi",
+    "title": "Kingdom Fungi",
+    "content": "The fungi constitute a unique kingdom of heterotrophic organisms. They show a great diversity in morphology and habitat."
+  },
+  {
+    "id": "definition-48",
+    "chapter": "Kingdom Fungi",
+    "title": "Hyphae",
+    "content": "Their bodies consist of long, slender thread-like structures called hyphae."
+  },
+  {
+    "id": "definition-49",
+    "chapter": "Kingdom Fungi",
+    "title": "Mycelium",
+    "content": "The network of hyphae is known as mycelium."
+  },
+  {
+    "id": "definition-50",
+    "chapter": "Kingdom Fungi",
+    "title": "Coenocytic hyphae",
+    "content": "Some hyphae are continuous tubes filled with multinucleated cytoplasm – these are called coenocytic hyphae."
+  },
+  {
+    "id": "definition-51",
+    "chapter": "Kingdom Fungi",
+    "title": "Saprophytes (fungi)",
+    "content": "Most fungi are heterotrophic and absorb soluble organic matter from dead substrates and hence are called saprophytes."
+  },
+  {
+    "id": "definition-52",
+    "chapter": "Kingdom Fungi",
+    "title": "Parasites (fungi)",
+    "content": "Those that depend on living plants and animals are called parasites."
+  },
+  {
+    "id": "definition-53",
+    "chapter": "Kingdom Fungi",
+    "title": "Symbionts (fungi)",
+    "content": "They can also live as symbionts – in association with algae as lichens and with roots of higher plants as mycorrhiza."
+  },
+  {
+    "id": "definition-54",
+    "chapter": "Kingdom Fungi",
+    "title": "Plasmogamy",
+    "content": "Fusion of protoplasms between two motile or non-motile gametes called plasmogamy."
+  },
+  {
+    "id": "definition-55",
+    "chapter": "Kingdom Fungi",
+    "title": "Karyogamy",
+    "content": "Fusion of two nuclei called karyogamy."
+  },
+  {
+    "id": "definition-56",
+    "chapter": "Kingdom Fungi",
+    "title": "Dikaryophase",
+    "content": "However, in other fungi (ascomycetes and basidiomycetes), an intervening dikaryotic stage (n + n, i.e., two nuclei per cell) occurs; such a condition is called a dikaryon and the phase is called dikaryophase of fungus."
+  },
+  {
+    "id": "definition-57",
+    "chapter": "Kingdom Fungi",
+    "title": "Phycomycetes",
+    "content": "Members of phycomycetes are found in aquatic habitats and on decaying wood in moist and damp places or as obligate parasites on plants. The mycelium is aseptate and coenocytic."
+  },
+  {
+    "id": "definition-58",
+    "chapter": "Kingdom Fungi",
+    "title": "Ascomycetes",
+    "content": "Commonly known as sac-fungi, the ascomycetes are mostly multicellular, e.g., Penicillium, or rarely unicellular, e.g., yeast (Saccharomyces)."
+  },
+  {
+    "id": "definition-59",
+    "chapter": "Kingdom Fungi",
+    "title": "Conidia",
+    "content": "The asexual spores are conidia produced exogenously on the special mycelium called conidiophores."
+  },
+  {
+    "id": "definition-60",
+    "chapter": "Kingdom Fungi",
+    "title": "Ascospores",
+    "content": "Sexual spores are called ascospores which are produced endogenously in sac like asci (singular ascus)."
+  },
+  {
+    "id": "definition-61",
+    "chapter": "Kingdom Fungi",
+    "title": "Ascocarps",
+    "content": "These asci are arranged in different types of fruiting bodies called ascocarps."
+  },
+  {
+    "id": "definition-62",
+    "chapter": "Kingdom Fungi",
+    "title": "Basidiomycetes",
+    "content": "Commonly known forms of basidiomycetes are mushrooms, bracket fungi or puffballs."
+  },
+  {
+    "id": "definition-63",
+    "chapter": "Kingdom Fungi",
+    "title": "Basidiospores",
+    "content": "Karyogamy and meiosis take place in the basidium producing four basidiospores. The basidiospores are exogenously produced on the basidium (pl.: basidia)."
+  },
+  {
+    "id": "definition-64",
+    "chapter": "Kingdom Fungi",
+    "title": "Basidiocarps",
+    "content": "The basidia are arranged in fruiting bodies called basidiocarps."
+  },
+  {
+    "id": "definition-65",
+    "chapter": "Kingdom Fungi",
+    "title": "Deuteromycetes",
+    "content": "Commonly known as imperfect fungi because only the asexual or vegetative phases of these fungi are known."
+  },
+  {
+    "id": "definition-66",
+    "chapter": "Kingdom Plantae",
+    "title": "Kingdom Plantae",
+    "content": "Kingdom Plantae includes all eukaryotic chlorophyll-containing organisms commonly called plants."
+  },
+  {
+    "id": "definition-67",
+    "chapter": "Kingdom Plantae",
+    "title": "Alternation of generations",
+    "content": "Life cycle of plants has two distinct phases – the diploid sporophytic and the haploid gametophytic – that alternate with each other. The lengths of the haploid and diploid phases, and whether these phases are free living or dependent on others, vary among different groups in plants. This phenomenon is called alternation of generations."
+  },
+  {
+    "id": "definition-68",
+    "chapter": "Kingdom Animalia",
+    "title": "Kingdom Animalia",
+    "content": "This kingdom is characterised by heterotrophic eukaryotic organisms that are multicellular and their cells lack cell walls."
+  },
+  {
+    "id": "definition-69",
+    "chapter": "Viruses, Viroids, Prions and Lichens",
+    "title": "Viruses",
+    "content": "The viruses are non-cellular organisms that are characterised by having an inert crystalline structure outside the living cell. Once they infect a cell, they take over the machinery of the host cell to replicate themselves, killing the host."
+  },
+  {
+    "id": "definition-70",
+    "chapter": "Viruses, Viroids, Prions and Lichens",
+    "title": "Contagium vivum fluidum",
+    "content": "M.W. Beijerinck (1898) demonstrated that the extract of the infected plants of tobacco could cause infection in healthy plants and named the new pathogen “virus” and called the fluid as Contagium vivum fluidum (infectious living fluid)."
+  },
+  {
+    "id": "definition-71",
+    "chapter": "Viruses, Viroids, Prions and Lichens",
+    "title": "Bacteriophages",
+    "content": "Bacterial viruses or bacteriophages (viruses that infect the bacteria) are usually double stranded DNA viruses."
+  },
+  {
+    "id": "definition-72",
+    "chapter": "Viruses, Viroids, Prions and Lichens",
+    "title": "Capsid",
+    "content": "The protein coat called capsid made of small subunits called capsomeres, protects the nucleic acid."
+  },
+  {
+    "id": "definition-73",
+    "chapter": "Viruses, Viroids, Prions and Lichens",
+    "title": "Capsomeres",
+    "content": "The protein coat called capsid made of small subunits called capsomeres, protects the nucleic acid."
+  },
+  {
+    "id": "definition-74",
+    "chapter": "Viruses, Viroids, Prions and Lichens",
+    "title": "Viroids",
+    "content": "In 1971, T.O. Diener discovered a new infectious agent that was smaller than viruses and caused potato spindle tuber disease. It was found to be a free RNA; it lacked the protein coat that is found in viruses, hence the name viroid."
+  },
+  {
+    "id": "definition-75",
+    "chapter": "Viruses, Viroids, Prions and Lichens",
+    "title": "Prions",
+    "content": "In modern medicine certain infectious neurological diseases were found to be transmitted by an agent consisting of abnormally folded protein. The agent was similar in size to viruses. These agents were called prions."
+  },
+  {
+    "id": "definition-76",
+    "chapter": "Viruses, Viroids, Prions and Lichens",
+    "title": "Lichens",
+    "content": "Lichens are symbiotic associations i.e. mutually useful associations, between algae and fungi."
+  },
+  {
+    "id": "definition-77",
+    "chapter": "Viruses, Viroids, Prions and Lichens",
+    "title": "Phycobiont",
+    "content": "The algal component is known as phycobiont and fungal component as mycobiont, which are autotrophic and heterotrophic, respectively."
+  },
+  {
+    "id": "definition-78",
+    "chapter": "Viruses, Viroids, Prions and Lichens",
+    "title": "Mycobiont",
+    "content": "The algal component is known as phycobiont and fungal component as mycobiont, which are autotrophic and heterotrophic, respectively."
+  },
+   {
+    "id": "definition-79",
+    "chapter": "Kingdom Plantae",
+    "title": "Artificial classification systems",
+    "content": "The earliest systems of classification used only gross superficial morphological characters such as habit, colour, number and shape of leaves, etc. They were based mainly on vegetative characters or on the androecium structure (system given by Linnaeus). Such systems were artificial; they separated the closely related species since they were based on a few characteristics. Also, the artificial systems gave equal weightage to vegetative and sexual characteristics; this is not acceptable since we know that often the vegetative characters are more easily affected by environment."
+  },
+  {
+    "id": "definition-80",
+    "chapter": "Kingdom Plantae",
+    "title": "Natural classification systems",
+    "content": "As against this, natural classification systems developed, which were based on natural affinities among the organisms and consider, not only the external features, but also internal features, like ultrastructure, anatomy, embryology and phytochemistry. Such a classification for flowering plants was given by George Bentham and Joseph Dalton Hooker."
+  },
+  {
+    "id": "definition-81",
+    "chapter": "Kingdom Plantae",
+    "title": "Phylogenetic classification systems",
+    "content": "At present phylogenetic classification systems based on evolutionary relationships between the various organisms are acceptable. This assumes that organisms belonging to the same taxa have a common ancestor."
+  },
+  {
+    "id": "definition-82",
+    "chapter": "Kingdom Plantae",
+    "title": "Numerical Taxonomy",
+    "content": "Numerical Taxonomy which is now easily carried out using computers is based on all observable characteristics. Number and codes are assigned to all the characters and the data are then processed. In this way each character is given equal importance and at the same time hundreds of characters can be considered."
+  },
+  {
+    "id": "definition-83",
+    "chapter": "Kingdom Plantae",
+    "title": "Cytotaxonomy",
+    "content": "Cytotaxonomy, that is based on cytological information like chromosome number, structure, behaviour and chemotaxonomy, that uses the chemical constituents of the plant to resolve confusions, are also used by taxonomists these days."
+  },
+  {
+    "id": "definition-84",
+    "chapter": "Kingdom Plantae",
+    "title": "Chemotaxonomy",
+    "content": "Cytotaxonomy, that is based on cytological information like chromosome number, structure, behaviour and chemotaxonomy, that uses the chemical constituents of the plant to resolve confusions, are also used by taxonomists these days."
+  },
+  {
+    "id": "definition-85",
+    "chapter": "Algae",
+    "title": "Algae",
+    "content": "Algae are chlorophyll-bearing, simple, thalloid, autotrophic and largely aquatic (both fresh water and marine) organisms."
+  },
+  {
+    "id": "definition-86",
+    "chapter": "Algae",
+    "title": "Isogamous (algae)",
+    "content": "These gametes can be flagellated and similar in size (as in Ulothrix) or non-flagellated (non-motile) but similar in size (as in Spirogyra). Such reproduction is called isogamous."
+  },
+  {
+    "id": "definition-87",
+    "chapter": "Algae",
+    "title": "Anisogamous (algae)",
+    "content": "Fusion of two gametes dissimilar in size, as in species of Eudorina is termed as anisogamous."
+  },
+  {
+    "id": "definition-88",
+    "chapter": "Algae",
+    "title": "Oogamous (algae)",
+    "content": "Fusion between one large, non-motile (static) female gamete and a smaller, motile male gamete is termed oogamous, e.g., Volvox, Fucus."
+  },
+  {
+    "id": "definition-89",
+    "chapter": "Algae",
+    "title": "Hydrocolloids",
+    "content": "Certain marine brown and red algae produce large amounts of hydrocolloids (water holding substances), e.g., algin (brown algae) and carrageen (red algae) which are used commercially."
+  },
+  {
+    "id": "definition-90",
+    "chapter": "Algae",
+    "title": "Chlorophyceae (Green Algae)",
+    "content": "The members of chlorophyceae are commonly called green algae. The plant body may be unicellular, colonial or filamentous."
+  },
+  {
+    "id": "definition-91",
+    "chapter": "Algae",
+    "title": "Pyrenoids",
+    "content": "Most of the members have one or more storage bodies called pyrenoids located in the chloroplasts. Pyrenoids contain protein besides starch."
+  },
+  {
+    "id": "definition-92",
+    "chapter": "Algae",
+    "title": "Phaeophyceae (Brown Algae)",
+    "content": "The members of phaeophyceae or brown algae are found primarily in marine habitats. They show great variation in size and form."
+  },
+  {
+    "id": "definition-93",
+    "chapter": "Algae",
+    "title": "Holdfast",
+    "content": "The plant body is usually attached to the substratum by a holdfast, and has a stalk, the stipe and leaf like photosynthetic organ – the frond."
+  },
+  {
+    "id": "definition-94",
+    "chapter": "Algae",
+    "title": "Stipe",
+    "content": "The plant body is usually attached to the substratum by a holdfast, and has a stalk, the stipe and leaf like photosynthetic organ – the frond."
+  },
+  {
+    "id": "definition-95",
+    "chapter": "Algae",
+    "title": "Frond",
+    "content": "The plant body is usually attached to the substratum by a holdfast, and has a stalk, the stipe and leaf like photosynthetic organ – the frond."
+  },
+  {
+    "id": "definition-96",
+    "chapter": "Algae",
+    "title": "Rhodophyceae (Red Algae)",
+    "content": "The members of rhodophyceae are commonly called red algae because of the predominance of the red pigment, r-phycoerythrin in their body."
+  },
+  {
+    "id": "definition-97",
+    "chapter": "Bryophytes",
+    "title": "Bryophytes",
+    "content": "Bryophytes include the various mosses and liverworts that are found commonly growing in moist shaded areas in the hills."
+  },
+  {
+    "id": "definition-98",
+    "chapter": "Bryophytes",
+    "title": "Amphibians of the plant kingdom",
+    "content": "Bryophytes are also called amphibians of the plant kingdom because these plants can live in soil but are dependent on water for sexual reproduction."
+  },
+  {
+    "id": "definition-99",
+    "chapter": "Bryophytes",
+    "title": "Gametophyte (bryophytes)",
+    "content": "The main plant body of the bryophyte is haploid. It produces gametes, hence is called a gametophyte."
+  },
+  {
+    "id": "definition-100",
+    "chapter": "Bryophytes",
+    "title": "Antheridium",
+    "content": "The male sex organ is called antheridium. They produce biflagellate antherozoids."
+  },
+  {
+    "id": "definition-101",
+    "chapter": "Bryophytes",
+    "title": "Archegonium",
+    "content": "The female sex organ called archegonium is flask-shaped and produces a single egg."
+  },
+  {
+    "id": "definition-102",
+    "chapter": "Bryophytes",
+    "title": "Sporophyte (bryophytes)",
+    "content": "Zygotes do not undergo reduction division immediately. They produce a multicellular body called a sporophyte."
+  },
+  {
+    "id": "definition-103",
+    "chapter": "Bryophytes",
+    "title": "Liverworts",
+    "content": "The liverworts grow usually in moist, shady habitats such as banks of streams, marshy ground, damp soil, bark of trees and deep in the woods. The plant body of a liverwort is thalloid, e.g., Marchantia."
+  },
+  {
+    "id": "definition-104",
+    "chapter": "Bryophytes",
+    "title": "Gemmae",
+    "content": "Asexual reproduction in liverworts takes place by fragmentation of thalli, or by the formation of specialised structures called gemmae (sing. gemma). Gemmae are green, multicellular, asexual buds, which develop in small receptacles called gemma cups located on the thalli."
+  },
+  {
+    "id": "definition-105",
+    "chapter": "Bryophytes",
+    "title": "Mosses",
+    "content": "The predominant stage of the life cycle of a moss is the gametophyte which consists of two stages. The first stage is the protonema stage, which develops directly from a spore. It is a creeping, green, branched and frequently filamentous stage. The second stage is the leafy stage, which develops from the secondary protonema as a lateral bud."
+  },
+  {
+    "id": "definition-106",
+    "chapter": "Pteridophytes",
+    "title": "Pteridophytes",
+    "content": "The Pteridophytes include horsetails and ferns. Pteridophytes are used for medicinal purposes and as soil-binders. They are also frequently grown as ornamentals. Evolutionarily, they are the first terrestrial plants to possess vascular tissues – xylem and phloem."
+  },
+  {
+    "id": "definition-107",
+    "chapter": "Pteridophytes",
+    "title": "Microphylls",
+    "content": "The leaves in pteridophyta are small (microphylls) as in Selaginella or large (macrophylls) as in ferns."
+  },
+  {
+    "id": "definition-108",
+    "chapter": "Pteridophytes",
+    "title": "Macrophylls",
+    "content": "The leaves in pteridophyta are small (microphylls) as in Selaginella or large (macrophylls) as in ferns."
+  },
+  {
+    "id": "definition-109",
+    "chapter": "Pteridophytes",
+    "title": "Sporophylls",
+    "content": "The sporophytes bear sporangia that are subtended by leaf-like appendages called sporophylls."
+  },
+  {
+    "id": "definition-110",
+    "chapter": "Pteridophytes",
+    "title": "Strobili or cones (Pteridophytes)",
+    "content": "In some cases sporophylls may form distinct compact structures called strobili or cones (Selaginella, Equisetum)."
+  },
+  {
+    "id": "definition-111",
+    "chapter": "Pteridophytes",
+    "title": "Prothallus",
+    "content": "The spores germinate to give rise to inconspicuous, small but multicellular, free-living, mostly photosynthetic thalloid gametophytes called prothallus."
+  },
+  {
+    "id": "definition-112",
+    "chapter": "Pteridophytes",
+    "title": "Homosporous",
+    "content": "In majority of the pteridophytes all the spores are of similar kinds; such plants are called homosporous."
+  },
+  {
+    "id": "definition-113",
+    "chapter": "Pteridophytes",
+    "title": "Heterosporous (Pteridophytes)",
+    "content": "Genera like Selaginella and Salvinia which produce two kinds of spores, macro (large) and micro (small) spores, are known as heterosporous."
+  },
+  {
+    "id": "definition-114",
+    "chapter": "Gymnosperms",
+    "title": "Gymnosperms",
+    "content": "The gymnosperms (gymnos : naked, sperma : seeds) are plants in which the ovules are not enclosed by any ovary wall and remain exposed, both before and after fertilisation. The seeds that develop post-fertilisation, are not covered, i.e., are naked."
+  },
+  {
+    "id": "definition-115",
+    "chapter": "Gymnosperms",
+    "title": "Coralloid roots",
+    "content": "Roots in some genera have fungal association in the form of mycorrhiza (Pinus), while in some others (Cycas) small specialised roots called coralloid roots are associated with N2- fixing cyanobacteria."
+  },
+  {
+    "id": "definition-116",
+    "chapter": "Gymnosperms",
+    "title": "Microsporangiate or male strobili",
+    "content": "The strobili bearing microsporophylls and microsporangia are called microsporangiate or male strobili."
+  },
+  {
+    "id": "definition-117",
+    "chapter": "Gymnosperms",
+    "title": "Pollen grain (Gymnosperms)",
+    "content": "The microspores develop into a male gametophytic generation which is highly reduced and is confined to only a limited number of cells. This reduced gametophyte is called a pollen grain."
+  },
+  {
+    "id": "definition-118",
+    "chapter": "Gymnosperms",
+    "title": "Macrosporangiate or female strobili",
+    "content": "The cones bearing megasporophylls with ovules or megasporangia are called macrosporangiate or female strobili."
+  },
+  {
+    "id": "definition-119",
+    "chapter": "Angiosperms",
+    "title": "Angiosperms",
+    "content": "Unlike the gymnosperms where the ovules are naked, in the angiosperms or flowering plants, the pollen grains and ovules are developed in specialised structures called flowers. In angiosperms, the seeds are enclosed in fruits."
+  },
+  {
+    "id": "definition-120",
+    "chapter": "Basis of Classification",
+    "title": "Cellular level of organisation",
+    "content": "In sponges, the cells are arranged as loose cell aggregates, i.e., they exhibit cellular level of organisation. Some division of labour (activities) occur among the cells."
+  },
+  {
+    "id": "definition-121",
+    "chapter": "Basis of Classification",
+    "title": "Tissue level of organisation",
+    "content": "In coelenterates, the arrangement of cells is more complex. Here the cells performing the same function are arranged into tissues, hence is called tissue level of organisation."
+  },
+  {
+    "id": "definition-122",
+    "chapter": "Basis of Classification",
+    "title": "Organ level of organisation",
+    "content": "A still higher level of organisation, i.e., organ level is exhibited by members of Platyhelminthes and other higher phyla where tissues are grouped together to form organs, each specialised for a particular function."
+  },
+  {
+    "id": "definition-123",
+    "chapter": "Basis of Classification",
+    "title": "Organ system level of organisation",
+    "content": "In animals like Annelids, Arthropods, Molluscs, Echinoderms and Chordates, organs have associated to form functional systems, each system concerned with a specific physiological function. This pattern is called organ system level of organisation."
+  },
+  {
+    "id": "definition-124",
+    "chapter": "Basis of Classification",
+    "title": "Incomplete digestive system",
+    "content": "For example, the digestive system in Platyhelminthes has only a single opening to the outside of the body that serves as both mouth and anus, and is hence called incomplete."
+  },
+  {
+    "id": "definition-125",
+    "chapter": "Basis of Classification",
+    "title": "Complete digestive system",
+    "content": "A complete digestive system has two openings, mouth and anus."
+  },
+  {
+    "id": "definition-126",
+    "chapter": "Basis of Classification",
+    "title": "Open circulatory system",
+    "content": "(i) open type in which the blood is pumped out of the heart and the cells and tissues are directly bathed in it"
+  },
+  {
+    "id": "definition-127",
+    "chapter": "Basis of Classification",
+    "title": "Closed circulatory system",
+    "content": "(ii) closed type in which the blood is circulated through a series of vessels of varying diameters (arteries, veins and capillaries)."
+  },
+  {
+    "id": "definition-128",
+    "chapter": "Basis of Classification",
+    "title": "Asymmetrical",
+    "content": "Sponges are mostly asymmetrical, i.e., any plane that passes through the centre does not divide them into equal halves."
+  },
+  {
+    "id": "definition-129",
+    "chapter": "Basis of Classification",
+    "title": "Radial symmetry",
+    "content": "When any plane passing through the central axis of the body divides the organism into two identical halves, it is called radial symmetry."
+  },
+  {
+    "id": "definition-130",
+    "chapter": "Basis of Classification",
+    "title": "Bilateral symmetry",
+    "content": "Animals like annelids, arthropods, etc., where the body can be divided into identical left and right halves in only one plane, exhibit bilateral symmetry."
+  },
+  {
+    "id": "definition-131",
+    "chapter": "Basis of Classification",
+    "title": "Diploblastic animals",
+    "content": "Animals in which the cells are arranged in two embryonic layers, an external ectoderm and an internal endoderm, are called diploblastic animals, e.g., coelenterates."
+  },
+  {
+    "id": "definition-132",
+    "chapter": "Basis of Classification",
+    "title": "Mesoglea",
+    "content": "An undifferentiated layer, mesoglea, is present in between the ectoderm and the endoderm."
+  },
+  {
+    "id": "definition-133",
+    "chapter": "Basis of Classification",
+    "title": "Triploblastic animals",
+    "content": "Those animals in which the developing embryo has a third germinal layer, mesoderm, in between the ectoderm and endoderm, are called triploblastic animals (platyhelminthes to chordates, Figure 4.2b)."
+  },
+  {
+    "id": "definition-134",
+    "chapter": "Basis of Classification",
+    "title": "Coelom",
+    "content": "The body cavity, which is lined by mesoderm is called coelom. Animals possessing coelom are called coelomates, e.g., annelids, molluscs, arthropods, echinoderms, hemichordates and chordates."
+  },
+  {
+    "id": "definition-135",
+    "chapter": "Basis of Classification",
+    "title": "Coelomates",
+    "content": "Animals possessing coelom are called coelomates, e.g., annelids, molluscs, arthropods, echinoderms, hemichordates and chordates."
+  },
+  {
+    "id": "definition-136",
+    "chapter": "Basis of Classification",
+    "title": "Pseudocoelom",
+    "content": "In some animals, the body cavity is not lined by mesoderm, instead, the mesoderm is present as scattered pouches in between the ectoderm and endoderm. Such a body cavity is called pseudocoelom and the animals possessing them are called pseudocoelomates, e.g., aschelminthes."
+  },
+  {
+    "id": "definition-137",
+    "chapter": "Basis of Classification",
+    "title": "Pseudocoelomates",
+    "content": "In some animals, the body cavity is not lined by mesoderm, instead, the mesoderm is present as scattered pouches in between the ectoderm and endoderm. Such a body cavity is called pseudocoelom and the animals possessing them are called pseudocoelomates, e.g., aschelminthes."
+  },
+  {
+    "id": "definition-138",
+    "chapter": "Basis of Classification",
+    "title": "Acoelomates",
+    "content": "The animals in which the body cavity is absent are called acoelomates, e.g., platyhelminthes."
+  },
+  {
+    "id": "definition-139",
+    "chapter": "Basis of Classification",
+    "title": "Metameric segmentation (Metamerism)",
+    "content": "In some animals, the body is externally and internally divided into segments with a serial repetition of at least some organs. For example, in earthworm, the body shows this pattern called metameric segmentation and the phenomenon is known as metamerism."
+  },
+  {
+    "id": "definition-140",
+    "chapter": "Basis of Classification",
+    "title": "Notochord",
+    "content": "Notochord is a mesodermally derived rod-like structure formed on the dorsal side during embryonic development in some animals."
+  },
+  {
+    "id": "definition-141",
+    "chapter": "Basis of Classification",
+    "title": "Chordates",
+    "content": "Animals with notochord are called chordates and those animals which do not form this structure are called non-chordates, e.g., porifera to echinoderms."
+  },
+  {
+    "id": "definition-142",
+    "chapter": "Basis of Classification",
+    "title": "Non-chordates",
+    "content": "Animals with notochord are called chordates and those animals which do not form this structure are called non-chordates, e.g., porifera to echinoderms."
+  },
+  {
+    "id": "definition-143",
+    "chapter": "Phylum – Porifera",
+    "title": "Porifera (Sponges)",
+    "content": "Members of this phylum are commonly known as sponges. They are generally marine and mostly asymmetrical animals. These are primitive multicellular animals and have cellular level of organisation."
+  },
+  {
+    "id": "definition-144",
+    "chapter": "Phylum – Porifera",
+    "title": "Water transport or canal system",
+    "content": "Sponges have a water transport or canal system. Water enters through minute pores (ostia) in the body wall into a central cavity, spongocoel, from where it goes out through the osculum. This pathway of water transport is helpful in food gathering, respiratory exchange and removal of waste."
+  },
+  {
+    "id": "definition-145",
+    "chapter": "Phylum – Porifera",
+    "title": "Ostia",
+    "content": "Water enters through minute pores (ostia) in the body wall into a central cavity, spongocoel"
+  },
+  {
+    "id": "definition-146",
+    "chapter": "Phylum – Porifera",
+    "title": "Spongocoel",
+    "content": "Water enters through minute pores (ostia) in the body wall into a central cavity, spongocoel, from where it goes out through the osculum."
+  },
+  {
+    "id": "definition-147",
+    "chapter": "Phylum – Porifera",
+    "title": "Osculum",
+    "content": "Water enters through minute pores (ostia) in the body wall into a central cavity, spongocoel, from where it goes out through the osculum."
+  },
+  {
+    "id": "definition-148",
+    "chapter": "Phylum – Porifera",
+    "title": "Choanocytes or collar cells",
+    "content": "Choanocytes or collar cells line the spongocoel and the canals."
+  },
+  {
+    "id": "definition-149",
+    "chapter": "Phylum – Coelenterata (Cnidaria)",
+    "title": "Coelenterata (Cnidaria)",
+    "content": "They are aquatic, mostly marine, sessile or free-swimming, radially symmetrical animals. The name cnidaria is derived from the cnidoblasts or cnidocytes (which contain the stinging capsules or nematocysts) present on the tentacles and the body."
+  },
+  {
+    "id": "definition-150",
+    "chapter": "Phylum – Coelenterata (Cnidaria)",
+    "title": "Cnidoblasts or cnidocytes",
+    "content": "The name cnidaria is derived from the cnidoblasts or cnidocytes (which contain the stinging capsules or nematocysts) present on the tentacles and the body."
+  },
+  {
+    "id": "definition-151",
+    "chapter": "Phylum – Coelenterata (Cnidaria)",
+    "title": "Nematocysts",
+    "content": "The name cnidaria is derived from the cnidoblasts or cnidocytes (which contain the stinging capsules or nematocysts) present on the tentacles and the body."
+  },
+  {
+    "id": "definition-152",
+    "chapter": "Phylum – Coelenterata (Cnidaria)",
+    "title": "Polyp",
+    "content": "Cnidarians exhibit two basic body forms called polyp and medusa. The former is a sessile and cylindrical form like Hydra, Adamsia, etc."
+  },
+  {
+    "id": "definition-153",
+    "chapter": "Phylum – Coelenterata (Cnidaria)",
+    "title": "Medusa",
+    "content": "Cnidarians exhibit two basic body forms called polyp and medusa. The latter is umbrella-shaped and free-swimming like Aurelia or jelly fish."
+  },
+  {
+    "id": "definition-154",
+    "chapter": "Phylum – Coelenterata (Cnidaria)",
+    "title": "Metagenesis (Coelenterata)",
+    "content": "Those cnidarians which exist in both forms exhibit alternation of generations (Metagenesis), i.e., polyps produce medusae asexually and medusae form the polyps sexually (e.g., Obelia)."
+  },
+  {
+    "id": "definition-155",
+    "chapter": "Phylum – Ctenophora",
+    "title": "Ctenophores (Sea walnuts or comb jellies)",
+    "content": "Ctenophores, commonly known as sea walnuts or comb jellies are exclusively marine, radially symmetrical, diploblastic organisms with tissue level of organisation."
+  },
+  {
+    "id": "definition-156",
+    "chapter": "Phylum – Ctenophora",
+    "title": "Bioluminescence",
+    "content": "Bioluminescence (the property of a living organism to emit light) is well-marked in ctenophores."
+  },
+  {
+    "id": "definition-157",
+    "chapter": "Phylum – Platyhelminthes",
+    "title": "Platyhelminthes (Flatworms)",
+    "content": "They have dorso-ventrally flattened body, hence are called flatworms. These are mostly endoparasites found in animals including human beings."
+  },
+  {
+    "id": "definition-158",
+    "chapter": "Phylum – Platyhelminthes",
+    "title": "Flame cells",
+    "content": "Specialised cells called flame cells help in osmoregulation and excretion."
+  },
+  {
+    "id": "definition-159",
+    "chapter": "Phylum – Aschelminthes",
+    "title": "Aschelminthes (Roundworms)",
+    "content": "The body of the aschelminthes is circular in cross-section, hence, the name roundworms. They may be freeliving, aquatic and terrestrial or parasitic in plants and animals."
+  },
+  {
+    "id": "definition-160",
+    "chapter": "Phylum – Annelida",
+    "title": "Annelida",
+    "content": "Their body surface is distinctly marked out into segments or metameres and, hence, the phylum name Annelida (Latin, annulus : little ring)."
+  },
+  {
+    "id": "definition-161",
+    "chapter": "Phylum – Annelida",
+    "title": "Parapodia",
+    "content": "Aquatic annelids like Nereis possess lateral appendages, parapodia, which help in swimming."
+  },
+  {
+    "id": "definition-162",
+    "chapter": "Phylum – Annelida",
+    "title": "Nephridia",
+    "content": "Nephridia (sing. nephridium) help in osmoregulation and excretion."
+  },
+  {
+    "id": "definition-163",
+    "chapter": "Phylum – Arthropoda",
+    "title": "Arthropoda",
+    "content": "This is the largest phylum of Animalia which includes insects. Over two-thirds of all named species on earth are arthropods."
+  },
+  {
+    "id": "definition-164",
+    "chapter": "Phylum – Arthropoda",
+    "title": "Malpighian tubules",
+    "content": "Excretion takes place through malpighian tubules."
+  },
+  {
+    "id": "definition-165",
+    "chapter": "Phylum – Mollusca",
+    "title": "Mollusca",
+    "content": "This is the second largest animal phylum. Molluscs are terrestrial or aquatic (marine or fresh water) having an organ-system level of organisation."
+  },
+  {
+    "id": "definition-166",
+    "chapter": "Phylum – Mollusca",
+    "title": "Mantle",
+    "content": "A soft and spongy layer of skin forms a mantle over the visceral hump."
+  },
+  {
+    "id": "definition-167",
+    "chapter": "Phylum – Mollusca",
+    "title": "Mantle cavity",
+    "content": "The space between the hump and the mantle is called the mantle cavity in which feather like gills are present."
+  },
+  {
+    "id": "definition-168",
+    "chapter": "Phylum – Mollusca",
+    "title": "Radula",
+    "content": "The mouth contains a file-like rasping organ for feeding, called radula."
+  },
+  {
+    "id": "definition-169",
+    "chapter": "Phylum – Echinodermata",
+    "title": "Echinodermata",
+    "content": "These animals have an endoskeleton of calcareous ossicles and, hence, the name Echinodermata (Spiny bodied)."
+  },
+  {
+    "id": "definition-170",
+    "chapter": "Phylum – Echinodermata",
+    "title": "Water vascular system",
+    "content": "The most distinctive feature of echinoderms is the presence of water vascular system which helps in locomotion, capture and transport of food and respiration."
+  },
+  {
+    "id": "definition-171",
+    "chapter": "Phylum – Hemichordata",
+    "title": "Hemichordata",
+    "content": "Hemichordata was earlier considered as a sub-phylum under phylum Chordata. But now it is placed as a separate phylum under non-chordata. Hemichordates have a rudimentary structure in the collar region called stomochord, a structure similar to notochord."
+  },
+  {
+    "id": "definition-172",
+    "chapter": "Phylum – Hemichordata",
+    "title": "Stomochord",
+    "content": "Hemichordates have a rudimentary structure in the collar region called stomochord, a structure similar to notochord."
+  },
+  {
+    "id": "definition-173",
+    "chapter": "Phylum – Chordata",
+    "title": "Chordata",
+    "content": "Animals belonging to phylum Chordata are fundamentally characterised by the presence of a notochord, a dorsal hollow nerve cord and paired pharyngeal gill slits."
+  },
+  {
+    "id": "definition-174",
+    "chapter": "Phylum – Chordata",
+    "title": "Protochordates",
+    "content": "Subphyla Urochordata and Cephalochordata are often referred to as protochordates and are exclusively marine."
+  },
+  {
+    "id": "definition-175",
+    "chapter": "Phylum – Chordata",
+    "title": "Urochordata (Tunicata)",
+    "content": "In Urochordata, notochord is present only in larval tail"
+  },
+  {
+    "id": "definition-176",
+    "chapter": "Phylum – Chordata",
+    "title": "Cephalochordata",
+    "content": "in Cephalochordata, it extends from head to tail region and is persistent throughout their life."
+  },
+  {
+    "id": "definition-177",
+    "chapter": "Phylum – Chordata",
+    "title": "Vertebrata",
+    "content": "The members of subphylum Vertebrata possess notochord during the embryonic period. The notochord is replaced by a cartilaginous or bony vertebral column in the adult. Thus all vertebrates are chordates but all chordates are not vertebrates."
+  },
+  {
+    "id": "definition-178",
+    "chapter": "Class – Cyclostomata",
+    "title": "Cyclostomata",
+    "content": "All living members of the class Cyclostomata are ectoparasites on some fishes. They have an elongated body bearing 6-15 pairs of gill slits for respiration. Cyclostomes have a sucking and circular mouth without jaws."
+  },
+  {
+    "id": "definition-179",
+    "chapter": "Class – Chondrichthyes",
+    "title": "Chondrichthyes",
+    "content": "They are marine animals with streamlined body and have cartilaginous endoskeleton. Mouth is located ventrally. Notochord is persistent throughout life. Gill slits are separate and without operculum (gill cover). The skin is tough, containing minute placoid scales."
+  },
+  {
+    "id": "definition-180",
+    "chapter": "Class – Chondrichthyes",
+    "title": "Poikilothermous (cold-blooded)",
+    "content": "They are cold-blooded (poikilothermous) animals, i.e., they lack the capacity to regulate their body temperature."
+  },
+  {
+    "id": "definition-181",
+    "chapter": "Class – Osteichthyes",
+    "title": "Osteichthyes",
+    "content": "It includes both marine and fresh water fishes with bony endoskeleton. Their body is streamlined. Mouth is mostly terminal. They have four pairs of gills which are covered by an operculum on each side. Skin is covered with cycloid/ctenoid scales. Air bladder is present which regulates buoyancy. Heart is two-chambered (one auricle and one ventricle). They are cold-blooded animals. Sexes are separate. Fertilisation is usually external. They are mostly oviparous and development is direct."
+  },
+  {
+    "id": "definition-182",
+    "chapter": "Class – Amphibia",
+    "title": "Amphibia",
+    "content": "As the name indicates (Gr., Amphi : dual, bios, life), amphibians can live in aquatic as well as terrestrial habitats. Most of them have two pairs of limbs. Body is divisible into head and trunk. Tail may be present in some. The amphibian skin is moist (without scales). The eyes have eyelids. A tympanum represents the ear. Alimentary canal, urinary and reproductive tracts open into a common chamber called cloaca which opens to the exterior. Respiration is by gills, lungs and through skin. The heart is three-chambered (two auricles and one ventricle). These are cold-blooded animals. Sexes are separate. Fertilisation is external. They are oviparous and development is indirect."
+  },
+  {
+    "id": "definition-183",
+    "chapter": "Class – Reptilia",
+    "title": "Reptilia",
+    "content": "The class name refers to their creeping or crawling mode of locomotion (Latin, repere or reptum, to creep or crawl). They are mostly terrestrial animals and their body is covered by dry and cornified skin, epidermal scales or scutes. They do not have external ear openings. Tympanum represents ear. Limbs, when present, are two pairs. Heart is usually three-chambered, but four-chambered in crocodiles. Reptiles are poikilotherms. Snakes and lizards shed their scales as skin cast. Sexes are separate. Fertilisation is internal. They are oviparous and development is direct."
+  },
+  {
+    "id": "definition-184",
+    "chapter": "Class – Aves",
+    "title": "Aves (Birds)",
+    "content": "The characteristic features of Aves (birds) are the presence of feathers and most of them can fly except flightless birds (e.g., Ostrich). They possess beak. The forelimbs are modified into wings. The hind limbs generally have scales and are modified for walking, swimming or clasping the tree branches. Skin is dry without glands except the oil gland at the base of the tail. Endoskeleton is fully ossified (bony) and the long bones are hollow with air cavities (pneumatic). The digestive tract of birds has additional chambers, the crop and gizzard. Heart is completely four-chambered. They are warm-blooded (homoiothermous) animals, i.e., they are able to maintain a constant body temperature. Respiration is by lungs. Air sacs connected to lungs supplement respiration. Sexes are separate. Fertilisation is internal. They are oviparous and development is direct."
+  },
+  {
+    "id": "definition-185",
+    "chapter": "Class – Aves",
+    "title": "Homoiothermous (warm-blooded)",
+    "content": "They are warm-blooded (homoiothermous) animals, i.e., they are able to maintain a constant body temperature."
+  },
+  {
+    "id": "definition-186",
+    "chapter": "Class – Mammalia",
+    "title": "Mammalia",
+    "content": "The most unique mammalian characteristic is the presence of milk producing glands (mammary glands) by which the young ones are nourished. They have two pairs of limbs, adapted for walking, running, climbing, burrowing, swimming or flying. The skin of mammals is unique in possessing hair. External ears or pinnae are present. Different types of teeth are present in the jaw. Heart is four-chambered. They are homoiothermous. Respiration is by lungs. Sexes are separate and fertilisation is internal. They are viviparous with few exceptions and development is direct."
+  },
+  {
+    "id": "definition-187",
+    "chapter": "The Root",
+    "title": "Tap root system",
+    "content": "In majority of the dicotyledonous plants, the direct elongation of the radicle leads to the formation of primary root which grows inside the soil. It bears lateral roots of several orders that are referred to as secondary, tertiary, etc. roots. The primary roots and its branches constitute the tap root system, as seen in the mustard plant."
+  },
+  {
+    "id": "definition-188",
+    "chapter": "The Root",
+    "title": "Fibrous root system",
+    "content": "In monocotyledonous plants, the primary root is short lived and is replaced by a large number of roots. These roots originate from the base of the stem and constitute the fibrous root system, as seen in the wheat plant."
+  },
+  {
+    "id": "definition-189",
+    "chapter": "The Root",
+    "title": "Adventitious roots",
+    "content": "In some plants, like grass, Monstera and the banyan tree, roots arise from parts of the plant other than the radicle and are called adventitious roots."
+  },
+  {
+    "id": "definition-190",
+    "chapter": "Regions of the Root",
+    "title": "Root cap",
+    "content": "The root is covered at the apex by a thimble-like structure called the root cap. It protects the tender apex of the root as it makes its way through the soil."
+  },
+  {
+    "id": "definition-191",
+    "chapter": "Regions of the Root",
+    "title": "Region of meristematic activity",
+    "content": "A few millimetres above the root cap is the region of meristematic activity. The cells of this region are very small, thin-walled and with dense protoplasm. They divide repeatedly."
+  },
+  {
+    "id": "definition-192",
+    "chapter": "Regions of the Root",
+    "title": "Region of elongation",
+    "content": "The cells proximal to this region undergo rapid elongation and enlargement and are responsible for the growth of the root in length. This region is called the region of elongation."
+  },
+  {
+    "id": "definition-193",
+    "chapter": "Regions of the Root",
+    "title": "Region of maturation",
+    "content": "The cells of the elongation zone gradually differentiate and mature. Hence, this zone, proximal to region of elongation, is called the region of maturation."
+  },
+  {
+    "id": "definition-194",
+    "chapter": "Regions of the Root",
+    "title": "Root hairs",
+    "content": "From this region some of the epidermal cells form very fine and delicate, thread-like structures called root hairs. These root hairs absorb water and minerals from the soil."
+  },
+  {
+    "id": "definition-195",
+    "chapter": "The Stem",
+    "title": "Stem",
+    "content": "The stem is the ascending part of the axis bearing branches, leaves, flowers and fruits. It develops from the plumule of the embryo of a germinating seed. The stem bears nodes and internodes."
+  },
+  {
+    "id": "definition-196",
+    "chapter": "The Stem",
+    "title": "Nodes",
+    "content": "The region of the stem where leaves are born are called nodes"
+  },
+  {
+    "id": "definition-197",
+    "chapter": "The Stem",
+    "title": "Internodes",
+    "content": "internodes are the portions between two nodes."
+  },
+  {
+    "id": "definition-198",
+    "chapter": "The Leaf",
+    "title": "Leaf",
+    "content": "The leaf is a lateral, generally flattened structure borne on the stem. It develops at the node and bears a bud in its axil. The axillary bud later develops into a branch. Leaves originate from shoot apical meristems and are arranged in an acropetal order. They are the most important vegetative organs for photosynthesis."
+  },
+  {
+    "id": "definition-199",
+    "chapter": "The Leaf",
+    "title": "Stipules",
+    "content": "The leaf is attached to the stem by the leaf base and may bear two lateral small leaf like structures called stipules."
+  },
+  {
+    "id": "definition-200",
+    "chapter": "The Leaf",
+    "title": "Pulvinus",
+    "content": "In some leguminous plants the leafbase may become swollen, which is called the pulvinus."
+  },
+  {
+    "id": "definition-201",
+    "chapter": "The Leaf",
+    "title": "Lamina or leaf blade",
+    "content": "The lamina or the leaf blade is the green expanded part of the leaf with veins and veinlets."
+  },
+  {
+    "id": "definition-202",
+    "chapter": "The Leaf",
+    "title": "Midrib",
+    "content": "There is, usually, a middle prominent vein, which is known as the midrib."
+  },
+  {
+    "id": "definition-203",
+    "chapter": "Venation",
+    "title": "Venation",
+    "content": "The arrangement of veins and the veinlets in the lamina of leaf is termed as venation."
+  },
+  {
+    "id": "definition-204",
+    "chapter": "Venation",
+    "title": "Reticulate venation",
+    "content": "When the veinlets form a network, the venation is termed as reticulate."
+  },
+  {
+    "id": "definition-205",
+    "chapter": "Venation",
+    "title": "Parallel venation",
+    "content": "When the veins run parallel to each other within a lamina, the venation is termed as parallel."
+  },
+  {
+    "id": "definition-206",
+    "chapter": "Types of Leaves",
+    "title": "Simple leaf",
+    "content": "A leaf is said to be simple, when its lamina is entire or when incised, the incisions do not touch the midrib."
+  },
+  {
+    "id": "definition-207",
+    "chapter": "Types of Leaves",
+    "title": "Compound leaf",
+    "content": "When the incisions of the lamina reach up to the midrib breaking it into a number of leaflets, the leaf is called compound."
+  },
+  {
+    "id": "definition-208",
+    "chapter": "Types of Leaves",
+    "title": "Pinnately compound leaf",
+    "content": "In a pinnately compound leaf a number of leaflets are present on a common axis, the rachis, which represents the midrib of the leaf as in neem."
+  },
+  {
+    "id": "definition-209",
+    "chapter": "Types of Leaves",
+    "title": "Palmately compound leaves",
+    "content": "In palmately compound leaves, the leaflets are attached at a common point, i.e., at the tip of petiole, as in silk cotton."
+  },
+  {
+    "id": "definition-210",
+    "chapter": "Phyllotaxy",
+    "title": "Phyllotaxy",
+    "content": "Phyllotaxy is the pattern of arrangement of leaves on the stem or branch."
+  },
+  {
+    "id": "definition-211",
+    "chapter": "Phyllotaxy",
+    "title": "Alternate phyllotaxy",
+    "content": "In alternate type of phyllotaxy, a single leaf arises at each node in alternate manner, as in china rose, mustard and sun flower plants."
+  },
+  {
+    "id": "definition-212",
+    "chapter": "Phyllotaxy",
+    "title": "Opposite phyllotaxy",
+    "content": "In opposite type, a pair of leaves arise at each node and lie opposite to each other as in Calotropis and guava plants."
+  },
+  {
+    "id": "definition-213",
+    "chapter": "Phyllotaxy",
+    "title": "Whorled phyllotaxy",
+    "content": "If more than two leaves arise at a node and form a whorl, it is called whorled, as in Alstonia."
+  },
+  {
+    "id": "definition-214",
+    "chapter": "The Inflorescence",
+    "title": "Inflorescence",
+    "content": "The arrangement of flowers on the floral axis is termed as inflorescence."
+  },
+  {
+    "id": "definition-215",
+    "chapter": "The Inflorescence",
+    "title": "Racemose inflorescence",
+    "content": "In racemose type of inflorescences the main axis continues to grow, the flowers are borne laterally in an acropetal succession."
+  },
+  {
+    "id": "definition-216",
+    "chapter": "The Inflorescence",
+    "title": "Cymose inflorescence",
+    "content": "In cymose type of inflorescence the main axis terminates in a flower, hence is limited in growth. The flowers are borne in a basipetal order."
+  },
+  {
+    "id": "definition-217",
+    "chapter": "The Flower",
+    "title": "Flower",
+    "content": "The flower is the reproductive unit in the angiosperms. It is meant for sexual reproduction."
+  },
+  {
+    "id": "definition-218",
+    "chapter": "The Flower",
+    "title": "Thalamus or receptacle",
+    "content": "A typical flower has four different kinds of whorls arranged successively on the swollen end of the stalk or pedicel, called thalamus or receptacle."
+  },
+  {
+    "id": "definition-219",
+    "chapter": "The Flower",
+    "title": "Perianth",
+    "content": "In some flowers like lily, the calyx and corolla are not distinct and are termed as perianth."
+  },
+  {
+    "id": "definition-220",
+    "chapter": "The Flower",
+    "title": "Bisexual flower",
+    "content": "When a flower has both androecium and gynoecium, it is bisexual."
+  },
+  {
+    "id": "definition-221",
+    "chapter": "The Flower",
+    "title": "Unisexual flower",
+    "content": "A flower having either only stamens or only carpels is unisexual."
+  },
+  {
+    "id": "definition-222",
+    "chapter": "The Flower",
+    "title": "Actinomorphic (radial symmetry)",
+    "content": "When a flower can be divided into two equal radial halves in any radial plane passing through the centre, it is said to be actinomorphic, e.g., mustard, datura, chilli."
+  },
+  {
+    "id": "definition-223",
+    "chapter": "The Flower",
+    "title": "Zygomorphic (bilateral symmetry)",
+    "content": "When it can be divided into two similar halves only in one particular vertical plane, it is zygomorphic, e.g., pea, gulmohur, bean, Cassia."
+  },
+  {
+    "id": "definition-224",
+    "chapter": "The Flower",
+    "title": "Asymmetric (irregular) flower",
+    "content": "A flower is asymmetric (irregular) if it cannot be divided into two similar halves by any vertical plane passing through the centre, as in canna."
+  },
+  {
+    "id": "definition-225",
+    "chapter": "The Flower",
+    "title": "Bracts",
+    "content": "Flowers with bracts-reduced leaf found at the base of the pedicel-are called bracteate and those without bracts, ebracteate."
+  },
+  {
+    "id": "definition-226",
+    "chapter": "The Flower",
+    "title": "Hypogynous flower",
+    "content": "In the hypogynous flower the gynoecium occupies the highest position while the other parts are situated below it. The ovary in such flowers is said to be superior, e.g., mustard, china rose and brinjal."
+  },
+  {
+    "id": "definition-227",
+    "chapter": "The Flower",
+    "title": "Superior ovary",
+    "content": "The ovary in such flowers is said to be superior, e.g., mustard, china rose and brinjal."
+  },
+  {
+    "id": "definition-228",
+    "chapter": "The Flower",
+    "title": "Perigynous flower",
+    "content": "If gynoecium is situated in the centre and other parts of the flower are located on the rim of the thalamus almost at the same level, it is called perigynous."
+  },
+  {
+    "id": "definition-229",
+    "chapter": "The Flower",
+    "title": "Half inferior ovary",
+    "content": "The ovary here is said to be half inferior, e.g., plum, rose, peach."
+  },
+  {
+    "id": "definition-230",
+    "chapter": "The Flower",
+    "title": "Epigynous flowers",
+    "content": "In epigynous flowers, the margin of thalamus grows upward enclosing the ovary completely and getting fused with it, the other parts of flower arise above the ovary."
+  },
+  {
+    "id": "definition-231",
+    "chapter": "The Flower",
+    "title": "Inferior ovary",
+    "content": "Hence, the ovary is said to be inferior as in flowers of guava and cucumber, and the ray florets of sunflower."
+  },
+  {
+    "id": "definition-232",
+    "chapter": "Parts of a Flower",
+    "title": "Calyx",
+    "content": "The calyx is the outermost whorl of the flower and the members are called sepals. Generally, sepals are green, leaf like and protect the flower in the bud stage."
+  },
+  {
+    "id": "definition-233",
+    "chapter": "Parts of a Flower",
+    "title": "Sepals",
+    "content": "The calyx is the outermost whorl of the flower and the members are called sepals."
+  },
+  {
+    "id": "definition-234",
+    "chapter": "Parts of a Flower",
+    "title": "Gamosepalous",
+    "content": "The calyx may be gamosepalous (sepals united) or polysepalous (sepals free)."
+  },
+  {
+    "id": "definition-235",
+    "chapter": "Parts of a Flower",
+    "title": "Polysepalous",
+    "content": "The calyx may be gamosepalous (sepals united) or polysepalous (sepals free)."
+  },
+  {
+    "id": "definition-236",
+    "chapter": "Parts of a Flower",
+    "title": "Corolla",
+    "content": "Corolla is composed of petals. Petals are usually brightly coloured to attract insects for pollination."
+  },
+  {
+    "id": "definition-237",
+    "chapter": "Parts of a Flower",
+    "title": "Petals",
+    "content": "Corolla is composed of petals."
+  },
+  {
+    "id": "definition-238",
+    "chapter": "Parts of a Flower",
+    "title": "Gamopetalous",
+    "content": "Like calyx, corolla may also be gamopetalous (petals united) or polypetalous (petals free)."
+  },
+  {
+    "id": "definition-239",
+    "chapter": "Parts of a Flower",
+    "title": "Polypetalous",
+    "content": "Like calyx, corolla may also be gamopetalous (petals united) or polypetalous (petals free)."
+  },
+  {
+    "id": "definition-240",
+    "chapter": "Parts of a Flower",
+    "title": "Aestivation",
+    "content": "The mode of arrangement of sepals or petals in floral bud with respect to the other members of the same whorl is known as aestivation."
+  },
+  {
+    "id": "definition-241",
+    "chapter": "Parts of a Flower",
+    "title": "Valvate aestivation",
+    "content": "When sepals or petals in a whorl just touch one another at the margin, without overlapping, as in Calotropis, it is said to be valvate."
+  },
+  {
+    "id": "definition-242",
+    "chapter": "Parts of a Flower",
+    "title": "Twisted aestivation",
+    "content": "If one margin of the appendage overlaps that of the next one and so on as in china rose, lady’s finger and cotton, it is called twisted."
+  },
+  {
+    "id": "definition-243",
+    "chapter": "Parts of a Flower",
+    "title": "Imbricate aestivation",
+    "content": "If the margins of sepals or petals overlap one another but not in any particular direction as in Cassia and gulmohur, the aestivation is called imbricate."
+  },
+  {
+    "id": "definition-244",
+    "chapter": "Parts of a Flower",
+    "title": "Vexillary or papilionaceous aestivation",
+    "content": "In pea and bean flowers, there are five petals, the largest (standard) overlaps the two lateral petals (wings) which in turn overlap the two smallest anterior petals (keel); this type of aestivation is known as vexillary or papilionaceous."
+  },
+  {
+    "id": "definition-245",
+    "chapter": "Parts of a Flower",
+    "title": "Androecium",
+    "content": "Androecium is composed of stamens. Each stamen which represents the male reproductive organ consists of a stalk or a filament and an anther."
+  },
+  {
+    "id": "definition-246",
+    "chapter": "Parts of a Flower",
+    "title": "Stamen",
+    "content": "Androecium is composed of stamens. Each stamen which represents the male reproductive organ consists of a stalk or a filament and an anther."
+  },
+  {
+    "id": "definition-247",
+    "chapter": "Parts of a Flower",
+    "title": "Filament",
+    "content": "Each stamen which represents the male reproductive organ consists of a stalk or a filament and an anther."
+  },
+  {
+    "id": "definition-248",
+    "chapter": "Parts of a Flower",
+    "title": "Anther",
+    "content": "Each stamen which represents the male reproductive organ consists of a stalk or a filament and an anther."
+  },
+  {
+    "id": "definition-249",
+    "chapter": "Parts of a Flower",
+    "title": "Pollen-sacs",
+    "content": "Each anther is usually bilobed and each lobe has two chambers, the pollen-sacs."
+  },
+  {
+    "id": "definition-250",
+    "chapter": "Parts of a Flower",
+    "title": "Pollen grains",
+    "content": "The pollen grains are produced in pollen-sacs."
+  },
+  {
+    "id": "definition-251",
+    "chapter": "Parts of a Flower",
+    "title": "Staminode",
+    "content": "A sterile stamen is called staminode."
+  },
+  {
+    "id": "definition-252",
+    "chapter": "Parts of a Flower",
+    "title": "Epipetalous",
+    "content": "When stamens are attached to the petals, they are epipetalous as in brinjal"
+  },
+  {
+    "id": "definition-253",
+    "chapter": "Parts of a Flower",
+    "title": "Epiphyllous",
+    "content": "epiphyllous when attached to the perianth as in the flowers of lily."
+  },
+  {
+    "id": "definition-254",
+    "chapter": "Parts of a Flower",
+    "title": "Polyandrous",
+    "content": "The stamens in a flower may either remain free (polyandrous) or may be united in varying degrees."
+  },
+  {
+    "id": "definition-255",
+    "chapter": "Parts of a Flower",
+    "title": "Monoadelphous",
+    "content": "The stamens may be united into one bunch or one bundle (monoadelphous) as in china rose"
+  },
+  {
+    "id": "definition-256",
+    "chapter": "Parts of a Flower",
+    "title": "Diadelphous",
+    "content": "or two bundles (diadelphous) as in pea"
+  },
+  {
+    "id": "definition-257",
+    "chapter": "Parts of a Flower",
+    "title": "Polyadelphous",
+    "content": "or into more than two bundles (polyadelphous) as in citrus."
+  },
+  {
+    "id": "definition-258",
+    "chapter": "Parts of a Flower",
+    "title": "Gynoecium",
+    "content": "Gynoecium is the female reproductive part of the flower and is made up of one or more carpels."
+  },
+  {
+    "id": "definition-259",
+    "chapter": "Parts of a Flower",
+    "title": "Carpel",
+    "content": "A carpel consists of three parts namely stigma, style and ovary."
+  },
+  {
+    "id": "definition-260",
+    "chapter": "Parts of a Flower",
+    "title": "Stigma",
+    "content": "A carpel consists of three parts namely stigma, style and ovary. The stigma is usually at the tip of the style and is the receptive surface for pollen grains."
+  },
+  {
+    "id": "definition-261",
+    "chapter": "Parts of a Flower",
+    "title": "Style",
+    "content": "A carpel consists of three parts namely stigma, style and ovary. Ovary is the enlarged basal part, on which lies the elongated tube, the style. The style connects the ovary to the stigma."
+  },
+  {
+    "id": "definition-262",
+    "chapter": "Parts of a Flower",
+    "title": "Ovary",
+    "content": "A carpel consists of three parts namely stigma, style and ovary. Ovary is the enlarged basal part, on which lies the elongated tube, the style."
+  },
+  {
+    "id": "definition-263",
+    "chapter": "Parts of a Flower",
+    "title": "Placenta",
+    "content": "Each ovary bears one or more ovules attached to a flattened, cushion-like placenta."
+  },
+  {
+    "id": "definition-264",
+    "chapter": "Parts of a Flower",
+    "title": "Apocarpous",
+    "content": "When more than one carpel is present, they may be free (as in lotus and rose) and are called apocarpous."
+  },
+  {
+    "id": "definition-265",
+    "chapter": "Parts of a Flower",
+    "title": "Syncarpous",
+    "content": "They are termed syncarpous when carpels are fused, as in mustard and tomato."
+  },
+  {
+    "id": "definition-266",
+    "chapter": "Parts of a Flower",
+    "title": "Placentation",
+    "content": "The arrangement of ovules within the ovary is known as placentation."
+  },
+  {
+    "id": "definition-267",
+    "chapter": "Parts of a Flower",
+    "title": "Marginal placentation",
+    "content": "In marginal placentation the placenta forms a ridge along the ventral suture of the ovary and the ovules are borne on this ridge forming two rows, as in pea."
+  },
+  {
+    "id": "definition-268",
+    "chapter": "Parts of a Flower",
+    "title": "Axile placentation",
+    "content": "When the placenta is axial and the ovules are attached to it in a multilocular ovary, the placentaion is said to be axile, as in china rose, tomato and lemon."
+  },
+  {
+    "id": "definition-269",
+    "chapter": "Parts of a Flower",
+    "title": "Parietal placentation",
+    "content": "In parietal placentation, the ovules develop on the inner wall of the ovary or on peripheral part. Ovary is one-chambered but it becomes two-chambered due to the formation of the false septum, e.g., mustard and Argemone."
+  },
+  {
+    "id": "definition-270",
+    "chapter": "Parts of a Flower",
+    "title": "Free central placentation",
+    "content": "When the ovules are borne on central axis and septa are absent, as in Dianthus and Primrose the placentation is called free central."
+  },
+  {
+    "id": "definition-271",
+    "chapter": "Parts of a Flower",
+    "title": "Basal placentation",
+    "content": "In basal placentation, the placenta develops at the base of ovary and a single ovule is attached to it, as in sunflower, marigold."
+  },
+  {
+    "id": "definition-272",
+    "chapter": "The Fruit",
+    "title": "Fruit",
+    "content": "The fruit is a characteristic feature of the flowering plants. It is a mature or ripened ovary, developed after fertilisation."
+  },
+  {
+    "id": "definition-273",
+    "chapter": "The Fruit",
+    "title": "Parthenocarpic fruit",
+    "content": "If a fruit is formed without fertilisation of the ovary, it is called a parthenocarpic fruit."
+  },
+  {
+    "id": "definition-274",
+    "chapter": "The Fruit",
+    "title": "Pericarp",
+    "content": "Generally, the fruit consists of a wall or pericarp and seeds."
+  },
+  {
+    "id": "definition-275",
+    "chapter": "The Fruit",
+    "title": "Epicarp",
+    "content": "When pericarp is thick and fleshy, it is differentiated into the outer epicarp, the middle mesocarp and the inner endocarp."
+  },
+  {
+    "id": "definition-276",
+    "chapter": "The Fruit",
+    "title": "Mesocarp",
+    "content": "When pericarp is thick and fleshy, it is differentiated into the outer epicarp, the middle mesocarp and the inner endocarp."
+  },
+  {
+    "id": "definition-277",
+    "chapter": "The Fruit",
+    "title": "Endocarp",
+    "content": "When pericarp is thick and fleshy, it is differentiated into the outer epicarp, the middle mesocarp and the inner endocarp."
+  },
+  {
+    "id": "definition-278",
+    "chapter": "The Fruit",
+    "title": "Drupe",
+    "content": "In mango and coconut, the fruit is known as a drupe. They develop from monocarpellary superior ovaries and are one seeded."
+  },
+  {
+    "id": "definition-279",
+    "chapter": "The Seed",
+    "title": "Seed",
+    "content": "The ovules after fertilisation, develop into seeds. A seed is made up of a seed coat and an embryo."
+  },
+  {
+    "id": "definition-280",
+    "chapter": "The Seed",
+    "title": "Embryo (Seed)",
+    "content": "The embryo is made up of a radicle, an embryonal axis and one (as in wheat, maize) or two cotyledons (as in gram and pea)."
+  },
+  {
+    "id": "definition-281",
+    "chapter": "Structure of a Dicotyledonous Seed",
+    "title": "Seed coat",
+    "content": "The outermost covering of a seed is the seed coat. The seed coat has two layers, the outer testa and the inner tegmen."
+  },
+  {
+    "id": "definition-282",
+    "chapter": "Structure of a Dicotyledonous Seed",
+    "title": "Testa",
+    "content": "The seed coat has two layers, the outer testa and the inner tegmen."
+  },
+  {
+    "id": "definition-283",
+    "chapter": "Structure of a Dicotyledonous Seed",
+    "title": "Tegmen",
+    "content": "The seed coat has two layers, the outer testa and the inner tegmen."
+  },
+  {
+    "id": "definition-284",
+    "chapter": "Structure of a Dicotyledonous Seed",
+    "title": "Hilum",
+    "content": "The hilum is a scar on the seed coat through which the developing seeds were attached to the fruit."
+  },
+  {
+    "id": "definition-285",
+    "chapter": "Structure of a Dicotyledonous Seed",
+    "title": "Micropyle (Seed)",
+    "content": "Above the hilum is a small pore called the micropyle."
+  },
+  {
+    "id": "definition-286",
+    "chapter": "Structure of a Dicotyledonous Seed",
+    "title": "Cotyledons",
+    "content": "Within the seed coat is the embryo, consisting of an embryonal axis and two cotyledons. The cotyledons are often fleshy and full of reserve food materials."
+  },
+  {
+    "id": "definition-287",
+    "chapter": "Structure of a Dicotyledonous Seed",
+    "title": "Radicle (Seed)",
+    "content": "At the two ends of the embryonal axis are present the radicle and the plumule."
+  },
+  {
+    "id": "definition-288",
+    "chapter": "Structure of a Dicotyledonous Seed",
+    "title": "Plumule (Seed)",
+    "content": "At the two ends of the embryonal axis are present the radicle and the plumule."
+  },
+  {
+    "id": "definition-289",
+    "chapter": "Structure of a Dicotyledonous Seed",
+    "title": "Endospermic seeds",
+    "content": "In some seeds such as castor the endosperm formed as a result of double fertilisation, is a food storing tissue and called endospermic seeds."
+  },
+  {
+    "id": "definition-290",
+    "chapter": "Structure of a Dicotyledonous Seed",
+    "title": "Non-endospermous seeds",
+    "content": "In plants such as bean, gram and pea, the endosperm is not present in mature seeds and such seeds are called non-endospermous."
+  },
+  {
+    "id": "definition-291",
+    "chapter": "Structure of Monocotyledonous Seed",
+    "title": "Non-endospermic (monocotyledonous seeds)",
+    "content": "Generally, monocotyledonous seeds are endospermic but some as in orchids are non-endospermic."
+  },
+  {
+    "id": "definition-292",
+    "chapter": "Structure of Monocotyledonous Seed",
+    "title": "Aleurone layer",
+    "content": "The outer covering of endosperm separates the embryo by a proteinous layer called aleurone layer."
+  },
+  {
+    "id": "definition-293",
+    "chapter": "Structure of Monocotyledonous Seed",
+    "title": "Scutellum",
+    "content": "It consists of one large and shield shaped cotyledon known as scutellum"
+  },
+  {
+    "id": "definition-294",
+    "chapter": "Structure of Monocotyledonous Seed",
+    "title": "Coleoptile",
+    "content": "The plumule and radicle are enclosed in sheaths which are called coleoptile and coleorhiza respectively."
+  },
+  {
+    "id": "definition-295",
+    "chapter": "Structure of Monocotyledonous Seed",
+    "title": "Coleorhiza",
+    "content": "The plumule and radicle are enclosed in sheaths which are called coleoptile and coleorhiza respectively."
+  },
+  {
+    "id": "definition-296",
+    "chapter": "Semi-Technical Description of a Typical Flowering Plant",
+    "title": "Floral formula",
+    "content": "The floral formula is represented by some symbols. In the floral formula, Br stands for bracteate K stands for calyx , C for corolla, P for perianth, A for androecium and G for Gynoecium, G for superior ovary and G for inferior ovary, for male, for female, for bisexual plants, for actinomorphic and for zygomorphic nature of flower. Fusion is indicated by enclosing the figure within bracket and adhesion by a line drawn above the symbols of the floral parts."
+  },
+  {
+    "id": "definition-297",
+    "chapter": "Semi-Technical Description of a Typical Flowering Plant",
+    "title": "Floral diagram",
+    "content": "A floral diagram provides information about the number of parts of a flower, their arrangement and the relation they have with one another. The position of the mother axis with respect to the flower is represented by a dot on the top of the floral diagram. Calyx, corolla, androecium and gynoecium are drawn in successive whorls, calyx being the outermost and the gynoecium being in the centre. Floral formula also shows cohesion and adhesion within parts of whorls and between whorls."
+  },
+  {
+    "id": "definition-298",
+    "chapter": "Solanaceae",
+    "title": "Solanaceae ('potato family')",
+    "content": "It is a large family, commonly called as the 'potato family'. It is widely distributed in tropics, subtropics and even temperate zones."
+  },
+  {
+    "id": "definition-299",
+    "chapter": "The Tissue System",
+    "title": "Anatomy (Plants)",
+    "content": "Study of internal structure of plants is called anatomy."
+  },
+  {
+    "id": "definition-300",
+    "chapter": "Epidermal Tissue System",
+    "title": "Epidermal tissue system",
+    "content": "The epidermal tissue system forms the outer-most covering of the whole plant body and comprises epidermal cells, stomata and the epidermal appendages – the trichomes and hairs."
+  },
+  {
+    "id": "definition-301",
+    "chapter": "Epidermal Tissue System",
+    "title": "Epidermis (Plant)",
+    "content": "The epidermis is the outermost layer of the primary plant body. It is made up of elongated, compactly arranged cells, which form a continuous layer. Epidermis is usually single-layered. Epidermal cells are parenchymatous with a small amount of cytoplasm lining the cell wall and a large vacuole."
+  },
+  {
+    "id": "definition-302",
+    "chapter": "Epidermal Tissue System",
+    "title": "Cuticle (Plant)",
+    "content": "The outside of the epidermis is often covered with a waxy thick layer called the cuticle which prevents the loss of water. Cuticle is absent in roots."
+  },
+  {
+    "id": "definition-303",
+    "chapter": "Epidermal Tissue System",
+    "title": "Stomata",
+    "content": "Stomata are structures present in the epidermis of leaves. Stomata regulate the process of transpiration and gaseous exchange."
+  },
+  {
+    "id": "definition-304",
+    "chapter": "Epidermal Tissue System",
+    "title": "Guard cells",
+    "content": "Each stoma is composed of two bean-shaped cells known as guard cells which enclose stomatal pore. In grasses, the guard cells are dumb-bell shaped."
+  },
+  {
+    "id": "definition-305",
+    "chapter": "Epidermal Tissue System",
+    "title": "Subsidiary cells",
+    "content": "Sometimes, a few epidermal cells, in the vicinity of the guard cells become specialised in their shape and size and are known as subsidiary cells."
+  },
+  {
+    "id": "definition-306",
+    "chapter": "Epidermal Tissue System",
+    "title": "Stomatal apparatus",
+    "content": "The stomatal aperture, guard cells and the surrounding subsidiary cells are together called stomatal apparatus."
+  },
+  {
+    "id": "definition-307",
+    "chapter": "Epidermal Tissue System",
+    "title": "Root hairs",
+    "content": "The root hairs are unicellular elongations of the epidermal cells and help absorb water and minerals from the soil."
+  },
+  {
+    "id": "definition-308",
+    "chapter": "Epidermal Tissue System",
+    "title": "Trichomes",
+    "content": "On the stem the epidermal hairs are called trichomes. The trichomes in the shoot system are usually multicellular. They may be branched or unbranched and soft or stiff. They may even be secretory. The trichomes help in preventing water loss due to transpiration."
+  },
+  {
+    "id": "definition-309",
+    "chapter": "The Ground Tissue System",
+    "title": "Ground tissue",
+    "content": "All tissues except epidermis and vascular bundles constitute the ground tissue. It consists of simple tissues such as parenchyma, collenchyma and sclerenchyma."
+  },
+  {
+    "id": "definition-310",
+    "chapter": "The Ground Tissue System",
+    "title": "Mesophyll",
+    "content": "In leaves, the ground tissue consists of thin-walled chloroplast containing cells and is called mesophyll."
+  },
+  {
+    "id": "definition-311",
+    "chapter": "The Vascular Tissue System",
+    "title": "Vascular bundles",
+    "content": "The xylem and phloem together constitute vascular bundles."
+  },
+  {
+    "id": "definition-312",
+    "chapter": "The Vascular Tissue System",
+    "title": "Open vascular bundles",
+    "content": "In dicotyledonous stems, cambium is present between phloem and xylem. Such vascular bundles because of the presence of cambium possess the ability to form secondary xylem and phloem tissues, and hence are called open vascular bundles."
+  },
+  {
+    "id": "definition-313",
+    "chapter": "The Vascular Tissue System",
+    "title": "Closed vascular bundles",
+    "content": "In the monocotyledons, the vascular bundles have no cambium present in them. Hence, since they do not form secondary tissues they are referred to as closed."
+  },
+  {
+    "id": "definition-314",
+    "chapter": "The Vascular Tissue System",
+    "title": "Radial vascular bundles",
+    "content": "When xylem and phloem within a vascular bundle are arranged in an alternate manner along the different radii, the arrangement is called radial such as in roots."
+  },
+  {
+    "id": "definition-315",
+    "chapter": "The Vascular Tissue System",
+    "title": "Conjoint vascular bundles",
+    "content": "In conjoint type of vascular bundles, the xylem and phloem are jointly situated along the same radius of vascular bundles. Such vascular bundles are common in stems and leaves. The conjoint vascular bundles usually have the phloem located only on the outer side of xylem."
+  },
+  {
+    "id": "definition-316",
+    "chapter": "Dicotyledonous Root",
+    "title": "Epiblema",
+    "content": "The outermost layer is epiblema. Many of the cells of epiblema protrude in the form of unicellular root hairs."
+  },
+  {
+    "id": "definition-317",
+    "chapter": "Dicotyledonous Root",
+    "title": "Cortex (Root)",
+    "content": "The cortex consists of several layers of thin-walled parenchyma cells with intercellular spaces."
+  },
+  {
+    "id": "definition-318",
+    "chapter": "Dicotyledonous Root",
+    "title": "Endodermis (Root)",
+    "content": "The innermost layer of the cortex is called endodermis. It comprises a single layer of barrel-shaped cells without any intercellular spaces. The tangential as well as radial walls of the endodermal cells have a deposition of water-impermeable, waxy material suberin in the form of casparian strips."
+  },
+  {
+    "id": "definition-319",
+    "chapter": "Dicotyledonous Root",
+    "title": "Casparian strips",
+    "content": "The tangential as well as radial walls of the endodermal cells have a deposition of water-impermeable, waxy material suberin in the form of casparian strips."
+  },
+  {
+    "id": "definition-320",
+    "chapter": "Dicotyledonous Root",
+    "title": "Pericycle (Root)",
+    "content": "Next to endodermis lies a few layers of thick-walled parenchyomatous cells referred to as pericycle. Initiation of lateral roots and vascular cambium during the secondary growth takes place in these cells."
+  },
+  {
+    "id": "definition-321",
+    "chapter": "Dicotyledonous Root",
+    "title": "Conjunctive tissue",
+    "content": "The parenchymatous cells which lie between the xylem and the phloem are called conjuctive tissue."
+  },
+  {
+    "id": "definition-322",
+    "chapter": "Dicotyledonous Root",
+    "title": "Stele",
+    "content": "All tissues on the innerside of the endodermis such as pericycle, vascular bundles and pith constitute the stele."
+  },
+  {
+    "id": "definition-323",
+    "chapter": "Dicotyledonous Stem",
+    "title": "Hypodermis (Stem)",
+    "content": "The outer hypodermis, consists of a few layers of collenchymatous cells just below the epidermis, which provide mechanical strength to the young stem."
+  },
+  {
+    "id": "definition-324",
+    "chapter": "Dicotyledonous Stem",
+    "title": "Starch sheath",
+    "content": "The innermost layer of the cortex is called the endodermis. The cells of the endodermis are rich in starch grains and the layer is also referred to as the starch sheath."
+  },
+  {
+    "id": "definition-325",
+    "chapter": "Dicotyledonous Stem",
+    "title": "Medullary rays",
+    "content": "In between the vascular bundles there are a few layers of radially placed parenchymatous cells, which constitute medullary rays."
+  },
+  {
+    "id": "definition-326",
+    "chapter": "Dorsiventral (Dicotyledonous) Leaf",
+    "title": "Adaxial epidermis",
+    "content": "The epidermis which covers both the upper surface (adaxial epidermis) and lower surface (abaxial epidermis) of the leaf has a conspicuous cuticle."
+  },
+  {
+    "id": "definition-327",
+    "chapter": "Dorsiventral (Dicotyledonous) Leaf",
+    "title": "Abaxial epidermis",
+    "content": "The epidermis which covers both the upper surface (adaxial epidermis) and lower surface (abaxial epidermis) of the leaf has a conspicuous cuticle."
+  },
+  {
+    "id": "definition-328",
+    "chapter": "Dorsiventral (Dicotyledonous) Leaf",
+    "title": "Mesophyll (Leaf)",
+    "content": "The tissue between the upper and the lower epidermis is called the mesophyll. Mesophyll, which possesses chloroplasts and carry out photosynthesis, is made up of parenchyma. It has two types of cells – the palisade parenchyma and the spongy parenchyma."
+  },
+  {
+    "id": "definition-329",
+    "chapter": "Dorsiventral (Dicotyledonous) Leaf",
+    "title": "Palisade parenchyma",
+    "content": "The adaxially placed palisade parenchyma is made up of elongated cells, which are arranged vertically and parallel to each other."
+  },
+  {
+    "id": "definition-330",
+    "chapter": "Dorsiventral (Dicotyledonous) Leaf",
+    "title": "Spongy parenchyma",
+    "content": "The oval or round and loosely arranged spongy parenchyma is situated below the palisade cells and extends to the lower epidermis. There are numerous large spaces and air cavities between these cells."
+  },
+  {
+    "id": "definition-331",
+    "chapter": "Isobilateral (Monocotyledonous) Leaf",
+    "title": "Bulliform cells",
+    "content": "In grasses, certain adaxial epidermal cells along the veins modify themselves into large, empty, colourless cells. These are called bulliform cells."
+  },
+   {
+    "id": "definition-332",
+    "chapter": "Organ and Organ System",
+    "title": "Tissue (Animals)",
+    "content": "In multicellular animals, a group of similar cells alongwith intercellular substances perform a specific function. Such an organisation is called tissue."
+  },
+  {
+    "id": "definition-333",
+    "chapter": "Organ and Organ System",
+    "title": "Organ",
+    "content": "These tissues are organised in specific proportion and pattern to form an organ like stomach, lung, heart and kidney."
+  },
+  {
+    "id": "definition-334",
+    "chapter": "Organ and Organ System",
+    "title": "Organ system",
+    "content": "When two or more organs perform a common function by their physical and/or chemical interaction, they together form organ system, e.g., digestive system, respiratory system, etc."
+  },
+  {
+    "id": "definition-335",
+    "chapter": "Organ and Organ System",
+    "title": "Morphology (Animals)",
+    "content": "Morphology refers to study of form or externally visible features. In case of animals this refers to the external appearance of the organs or parts of the body."
+  },
+  {
+    "id": "definition-336",
+    "chapter": "Organ and Organ System",
+    "title": "Anatomy (Animals)",
+    "content": "The word anatomy conventionally is used for the study of morphology of internal organs in the animals."
+  },
+  {
+    "id": "definition-337",
+    "chapter": "Frogs",
+    "title": "Cold blooded or poikilotherms",
+    "content": "They do not have constant body temperature i.e., their body temperature varies with the temperature of the environment. Such animals are called cold blooded or poikilotherms."
+  },
+  {
+    "id": "definition-338",
+    "chapter": "Frogs",
+    "title": "Mimicry (Frog)",
+    "content": "They have the ability to change the colour to hide them from their enemies (camouflage). This protective coloration is called mimicry."
+  },
+  {
+    "id": "definition-339",
+    "chapter": "Frogs",
+    "title": "Summer sleep (aestivation)",
+    "content": "During this period they take shelter in deep burrows to protect them from extreme heat and cold. This is known as summer sleep (aestivation) and winter sleep (hibernation) respectively."
+  },
+  {
+    "id": "definition-340",
+    "chapter": "Frogs",
+    "title": "Winter sleep (hibernation)",
+    "content": "During this period they take shelter in deep burrows to protect them from extreme heat and cold. This is known as summer sleep (aestivation) and winter sleep (hibernation) respectively."
+  },
+  {
+    "id": "definition-341",
+    "chapter": "Morphology (Frog)",
+    "title": "Nictitating membrane",
+    "content": "Eyes are bulged and covered by a nictitating membrane that protects them while in water."
+  },
+  {
+    "id": "definition-342",
+    "chapter": "Morphology (Frog)",
+    "title": "Tympanum (ear)",
+    "content": "On either side of eyes a membranous tympanum (ear) receives sound signals."
+  },
+  {
+    "id": "definition-343",
+    "chapter": "Morphology (Frog)",
+    "title": "Sexual dimorphism (Frog)",
+    "content": "Frogs exhibit sexual dimorphism. Male frogs can be distinguished by the presence of sound producing vocal sacs and also a copulatory pad on the first digit of the fore limbs which are absent in female frogs."
+  },
+  {
+    "id": "definition-344",
+    "chapter": "Anatomy (Frog)",
+    "title": "Alimentary canal (Frog)",
+    "content": "The digestive system consists of alimentary canal and digestive glands. The alimentary canal is short because frogs are carnivores and hence the length of intestine is reduced. The mouth opens into the buccal cavity that leads to the oesophagus through pharynx. Oesophagus is a short tube that opens into the stomach which in turn continues as the intestine, rectum and finally opens outside by the cloaca."
+  },
+  {
+    "id": "definition-345",
+    "chapter": "Anatomy (Frog)",
+    "title": "Cloaca (Frog)",
+    "content": "Oesophagus is a short tube that opens into the stomach which in turn continues as the intestine, rectum and finally opens outside by the cloaca."
+  },
+  {
+    "id": "definition-346",
+    "chapter": "Anatomy (Frog)",
+    "title": "Chyme (Frog)",
+    "content": "Partially digested food called chyme is passed from stomach to the first part of the small intestine, the duodenum."
+  },
+  {
+    "id": "definition-347",
+    "chapter": "Anatomy (Frog)",
+    "title": "Villi and microvilli (Frog)",
+    "content": "Digested food is absorbed by the numerous finger-like folds in the inner wall of intestine called villi and microvilli."
+  },
+  {
+    "id": "definition-348",
+    "chapter": "Anatomy (Frog)",
+    "title": "Cutaneous respiration",
+    "content": "In water, skin acts as aquatic respiratory organ (cutaneous respiration). Dissolved oxygen in the water is exchanged through the skin by diffusion."
+  },
+  {
+    "id": "definition-349",
+    "chapter": "Anatomy (Frog)",
+    "title": "Pulmonary respiration",
+    "content": "On land, the buccal cavity, skin and lungs act as the respiratory organs. The respiration by lungs is called pulmonary respiration."
+  },
+  {
+    "id": "definition-350",
+    "chapter": "Anatomy (Frog)",
+    "title": "Lymphatic system (Frog)",
+    "content": "Frogs have a lymphatic system also. The lymphatic system consists of lymph, lymph channels and lymph nodes."
+  },
+  {
+    "id": "definition-351",
+    "chapter": "Anatomy (Frog)",
+    "title": "Pericardium (Frog)",
+    "content": "Heart is a muscular structure situated in the upper part of the body cavity. It has three chambers, two atria and one ventricle and is covered by a membrane called pericardium."
+  },
+  {
+    "id": "definition-352",
+    "chapter": "Anatomy (Frog)",
+    "title": "Sinus venosus (Frog)",
+    "content": "A triangular structure called sinus venosus joins the right atrium. It receives blood through the major veins called vena cava."
+  },
+  {
+    "id": "definition-353",
+    "chapter": "Anatomy (Frog)",
+    "title": "Conus arteriosus (Frog)",
+    "content": "The ventricle opens into a sac-like conus arteriosus on the ventral side of the heart."
+  },
+  {
+    "id": "definition-354",
+    "chapter": "Anatomy (Frog)",
+    "title": "Hepatic portal system (Frog)",
+    "content": "Special venous connection between liver and intestine as well as the kidney and lower parts of the body are present in frogs. The former is called hepatic portal system"
+  },
+  {
+    "id": "definition-355",
+    "chapter": "Anatomy (Frog)",
+    "title": "Renal portal system (Frog)",
+    "content": "Special venous connection between liver and intestine as well as the kidney and lower parts of the body are present in frogs. The former is called hepatic portal system and the latter is called renal portal system."
+  },
+  {
+    "id": "definition-356",
+    "chapter": "Anatomy (Frog)",
+    "title": "Uriniferous tubules or nephrons (Frog)",
+    "content": "Each kidney is composed of several structural and functional units called uriniferous tubules or nephrons."
+  },
+  {
+    "id": "definition-357",
+    "chapter": "Anatomy (Frog)",
+    "title": "Ureotelic animal (Frog)",
+    "content": "The frog excretes urea and thus is a ureotelic animal."
+  },
+  {
+    "id": "definition-358",
+    "chapter": "Anatomy (Frog)",
+    "title": "Mesorchium",
+    "content": "Male reproductive organs consist of a pair of yellowish ovoid testes, which are found adhered to the upper part of kidneys by a double fold of peritoneum called mesorchium."
+  },
+  {
+    "id": "definition-359",
+    "chapter": "Anatomy (Frog)",
+    "title": "Vasa efferentia (Frog)",
+    "content": "Vasa efferentia are 10-12 in number that arise from testes. They enter the kidneys on their side and open into Bidder’s canal."
+  },
+  {
+    "id": "definition-360",
+    "chapter": "Anatomy (Frog)",
+    "title": "Bidder’s canal",
+    "content": "Vasa efferentia are 10-12 in number that arise from testes. They enter the kidneys on their side and open into Bidder’s canal."
+  },
+  {
+    "id": "definition-361",
+    "chapter": "Anatomy (Frog)",
+    "title": "Tadpole",
+    "content": "Development involves a larval stage called tadpole. Tadpole undergoes metamorphosis to form the adult."
+  },
+   {
+    "id": "definition-362",
+    "chapter": "What is a Cell?",
+    "title": "Cell",
+    "content": "Cell is the fundamental structural and functional unit of all living organisms."
+  },
+  {
+    "id": "definition-363",
+    "chapter": "What is a Cell?",
+    "title": "Unicellular organisms",
+    "content": "Some are composed of a single cell and are called unicellular organisms."
+  },
+  {
+    "id": "definition-364",
+    "chapter": "What is a Cell?",
+    "title": "Multicellular organisms",
+    "content": "Others, like us, composed of many cells, are called multicellular organisms."
+  },
+  {
+    "id": "definition-365",
+    "chapter": "Cell Theory",
+    "title": "Cell Theory",
+    "content": "All living organisms are composed of cells and products of cells. All cells arise from pre-existing cells."
+  },
+  {
+    "id": "definition-366",
+    "chapter": "An Overview of Cell",
+    "title": "Nucleus (Cell)",
+    "content": "Inside each cell is a dense membrane bound structure called nucleus. This nucleus contains the chromosomes which in turn contain the genetic material, DNA."
+  },
+  {
+    "id": "definition-367",
+    "chapter": "An Overview of Cell",
+    "title": "Eukaryotic cells",
+    "content": "Cells that have membrane bound nuclei are called eukaryotic."
+  },
+  {
+    "id": "definition-368",
+    "chapter": "An Overview of Cell",
+    "title": "Prokaryotic cells",
+    "content": "Cells that lack a membrane bound nucleus are prokaryotic."
+  },
+  {
+    "id": "definition-369",
+    "chapter": "An Overview of Cell",
+    "title": "Cytoplasm",
+    "content": "In both prokaryotic and eukaryotic cells, a semi-fluid matrix called cytoplasm occupies the volume of the cell. The cytoplasm is the main arena of cellular activities in both the plant and animal cells. Various chemical reactions occur in it to keep the cell in the ‘living state’."
+  },
+  {
+    "id": "definition-370",
+    "chapter": "An Overview of Cell",
+    "title": "Organelles",
+    "content": "Besides the nucleus, the eukaryotic cells have other membrane bound distinct structures called organelles like the endoplasmic reticulum (ER), the golgi complex, lysosomes, mitochondria, microbodies and vacuoles. The prokaryotic cells lack such membrane bound organelles."
+  },
+  {
+    "id": "definition-371",
+    "chapter": "An Overview of Cell",
+    "title": "Ribosomes",
+    "content": "Ribosomes are non-membrane bound organelles found in all cells - both eukaryotic as well as prokaryotic."
+  },
+  {
+    "id": "definition-372",
+    "chapter": "An Overview of Cell",
+    "title": "Centrosome",
+    "content": "Animal cells contain another non-membrane bound organelle called centrosome which helps in cell division."
+  },
+  {
+    "id": "definition-373",
+    "chapter": "Prokaryotic Cells",
+    "title": "Plasmids",
+    "content": "In addition to the genomic DNA (the single chromosome/circular DNA), many bacteria have small circular DNA outside the genomic DNA. These smaller DNA are called plasmids."
+  },
+  {
+    "id": "definition-374",
+    "chapter": "Prokaryotic Cells",
+    "title": "Mesosome",
+    "content": "A specialised differentiated form of cell membrane called mesosome is the characteristic of prokaryotes. They are essentially infoldings of cell membrane."
+  },
+  {
+    "id": "definition-375",
+    "chapter": "Cell Envelope and its Modifications",
+    "title": "Cell envelope",
+    "content": "Most prokaryotic cells, particularly the bacterial cells, have a chemically complex cell envelope. The cell envelope consists of a tightly bound three layered structure i.e., the outermost glycocalyx followed by the cell wall and then the plasma membrane."
+  },
+  {
+    "id": "definition-376",
+    "chapter": "Cell Envelope and its Modifications",
+    "title": "Glycocalyx",
+    "content": "The outermost glycocalyx followed by the cell wall and then the plasma membrane."
+  },
+  {
+    "id": "definition-377",
+    "chapter": "Cell Envelope and its Modifications",
+    "title": "Slime layer",
+    "content": "Glycocalyx differs in composition and thickness among different bacteria. It could be a loose sheath called the slime layer in some, while in others it may be thick and tough, called the capsule."
+  },
+  {
+    "id": "definition-378",
+    "chapter": "Cell Envelope and its Modifications",
+    "title": "Capsule (Glycocalyx)",
+    "content": "Glycocalyx differs in composition and thickness among different bacteria. It could be a loose sheath called the slime layer in some, while in others it may be thick and tough, called the capsule."
+  },
+  {
+    "id": "definition-379",
+    "chapter": "Cell Envelope and its Modifications",
+    "title": "Chromatophores",
+    "content": "In some prokaryotes like cyanobacteria, there are other membranous extensions into the cytoplasm called chromatophores which contain pigments."
+  },
+  {
+    "id": "definition-380",
+    "chapter": "Cell Envelope and its Modifications",
+    "title": "Flagella (Bacteria)",
+    "content": "If motile, they have thin filamentous extensions from their cell wall called flagella."
+  },
+  {
+    "id": "definition-381",
+    "chapter": "Cell Envelope and its Modifications",
+    "title": "Pili",
+    "content": "Besides flagella, Pili and Fimbriae are also surface structures of the bacteria but do not play a role in motility. The pili are elongated tubular structures made of a special protein."
+  },
+  {
+    "id": "definition-382",
+    "chapter": "Cell Envelope and its Modifications",
+    "title": "Fimbriae",
+    "content": "Besides flagella, Pili and Fimbriae are also surface structures of the bacteria but do not play a role in motility. The pili are elongated tubular structures made of a special protein. The fimbriae are small bristle like fibres sprouting out of the cell."
+  },
+  {
+    "id": "definition-383",
+    "chapter": "Ribosomes and Inclusion Bodies",
+    "title": "Polyribosomes or polysome",
+    "content": "Several ribosomes may attach to a single mRNA and form a chain called polyribosomes or polysome."
+  },
+  {
+    "id": "definition-384",
+    "chapter": "Ribosomes and Inclusion Bodies",
+    "title": "Inclusion bodies",
+    "content": "Reserve material in prokaryotic cells are stored in the cytoplasm in the form of inclusion bodies. These are not bound by any membrane system and lie free in the cytoplasm, e.g., phosphate granules, cyanophycean granules and glycogen granules. Gas vacuoles are found in blue green and purple and green photosynthetic bacteria."
+  },
+  {
+    "id": "definition-385",
+    "chapter": "Cell Membrane",
+    "title": "Fluid mosaic model",
+    "content": "An improved model of the structure of cell membrane was proposed by Singer and Nicolson (1972) widely accepted as fluid mosaic model."
+  },
+  {
+    "id": "definition-386",
+    "chapter": "Cell Membrane",
+    "title": "Passive transport",
+    "content": "Many molecules can move briefly across the membrane without any requirement of energy and this is called the passive transport."
+  },
+  {
+    "id": "definition-387",
+    "chapter": "Cell Membrane",
+    "title": "Osmosis",
+    "content": "Movement of water by diffusion is called osmosis."
+  },
+  {
+    "id": "definition-388",
+    "chapter": "Cell Membrane",
+    "title": "Active transport",
+    "content": "A few ions or molecules are transported across the membrane against their concentration gradient, i.e., from lower to the higher concentration. Such a transport is an energy dependent process, in which ATP is utilised and is called active transport, e.g., Na+/K+ Pump."
+  },
+  {
+    "id": "definition-389",
+    "chapter": "Cell Wall",
+    "title": "Cell wall (Fungi and Plants)",
+    "content": "A non-living rigid structure called the cell wall forms an outer covering for the plasma membrane of fungi and plants. Cell wall not only gives shape to the cell and protects the cell from mechanical damage and infection, it also helps in cell-to-cell interaction and provides barrier to undesirable macromolecules."
+  },
+  {
+    "id": "definition-390",
+    "chapter": "Cell Wall",
+    "title": "Primary wall",
+    "content": "The cell wall of a young plant cell, the primary wall is capable of growth, which gradually diminishes as the cell matures and the secondary wall is formed on the inner (towards membrane) side of the cell."
+  },
+  {
+    "id": "definition-391",
+    "chapter": "Cell Wall",
+    "title": "Secondary wall",
+    "content": "The cell wall of a young plant cell, the primary wall is capable of growth, which gradually diminishes as the cell matures and the secondary wall is formed on the inner (towards membrane) side of the cell."
+  },
+  {
+    "id": "definition-392",
+    "chapter": "Cell Wall",
+    "title": "Middle lamella",
+    "content": "The middle lamella is a layer mainly of calcium pectate which holds or glues the different neighbouring cells together."
+  },
+  {
+    "id": "definition-393",
+    "chapter": "Cell Wall",
+    "title": "Plasmodesmata",
+    "content": "The cell wall and middle lamellae may be traversed by plasmodesmata which connect the cytoplasm of neighbouring cells."
+  },
+  {
+    "id": "definition-394",
+    "chapter": "Endomembrane System",
+    "title": "Endomembrane system",
+    "content": "While each of the membranous organelles is distinct in terms of its structure and function, many of these are considered together as an endomembrane system because their functions are coordinated. The endomembrane system include endoplasmic reticulum (ER), golgi complex, lysosomes and vacuoles."
+  },
+  {
+    "id": "definition-395",
+    "chapter": "The Endoplasmic Reticulum (ER)",
+    "title": "Endoplasmic reticulum (ER)",
+    "content": "Electron microscopic studies of eukaryotic cells reveal the presence of a network or reticulum of tiny tubular structures scattered in the cytoplasm that is called the endoplasmic reticulum (ER)."
+  },
+  {
+    "id": "definition-396",
+    "chapter": "The Endoplasmic Reticulum (ER)",
+    "title": "Rough endoplasmic reticulum (RER)",
+    "content": "The ER often shows ribosomes attached to their outer surface. The endoplasmic reticulun bearing ribosomes on their surface is called rough endoplasmic reticulum (RER)."
+  },
+  {
+    "id": "definition-397",
+    "chapter": "The Endoplasmic Reticulum (ER)",
+    "title": "Smooth endoplasmic reticulum (SER)",
+    "content": "In the absence of ribosomes they appear smooth and are called smooth endoplasmic reticulum (SER)."
+  },
+  {
+    "id": "definition-398",
+    "chapter": "Golgi apparatus",
+    "title": "Golgi apparatus or Golgi bodies",
+    "content": "Camillo Golgi (1898) first observed densely stained reticular structures near the nucleus. These were later named Golgi bodies after him. They consist of many flat, disc-shaped sacs or cisternae of 0.5µm to 1.0µm diameter."
+  },
+  {
+    "id": "definition-399",
+    "chapter": "Golgi apparatus",
+    "title": "Cisternae",
+    "content": "They consist of many flat, disc-shaped sacs or cisternae of 0.5µm to 1.0µm diameter. These are stacked parallel to each other."
+  },
+  {
+    "id": "definition-400",
+    "chapter": "Lysosomes",
+    "title": "Lysosomes",
+    "content": "These are membrane bound vesicular structures formed by the process of packaging in the golgi apparatus. The isolated lysosomal vesicles have been found to be very rich in almost all types of hydrolytic enzymes (hydrolases – lipases, proteases, carbohydrases) optimally active at the acidic pH. These enzymes are capable of digesting carbohydrates, proteins, lipids and nucleic acids."
+  },
+  {
+    "id": "definition-401",
+    "chapter": "Vacuoles",
+    "title": "Vacuole (Cell)",
+    "content": "The vacuole is the membrane-bound space found in the cytoplasm. It contains water, sap, excretory product and other materials not useful for the cell."
+  },
+  {
+    "id": "definition-402",
+    "chapter": "Vacuoles",
+    "title": "Tonoplast",
+    "content": "The vacuole is bound by a single membrane called tonoplast."
+  },
+  {
+    "id": "definition-403",
+    "chapter": "Vacuoles",
+    "title": "Contractile vacuole",
+    "content": "In Amoeba, the contractile vacuole is important for osmoregulation and excretion."
+  },
+  {
+    "id": "definition-404",
+    "chapter": "Vacuoles",
+    "title": "Food vacuoles",
+    "content": "In many cells, as in protists, food vacuoles are formed by engulfing the food particles."
+  },
+  {
+    "id": "definition-405",
+    "chapter": "Mitochondria",
+    "title": "Mitochondria",
+    "content": "Each mitochondrion is a double membrane-bound structure with the outer membrane and the inner membrane dividing its lumen distinctly into two aqueous compartments, i.e., the outer compartment and the inner compartment. The inner compartment is filled with a dense homogeneous substance called the matrix. The outer membrane forms the continuous limiting boundary of the organelle. The inner membrane forms a number of infoldings called the cristae (sing.: crista) towards the matrix."
+  },
+  {
+    "id": "definition-406",
+    "chapter": "Mitochondria",
+    "title": "Matrix (Mitochondria)",
+    "content": "The inner compartment is filled with a dense homogeneous substance called the matrix."
+  },
+  {
+    "id": "definition-407",
+    "chapter": "Mitochondria",
+    "title": "Cristae",
+    "content": "The inner membrane forms a number of infoldings called the cristae (sing.: crista) towards the matrix."
+  },
+  {
+    "id": "definition-408",
+    "chapter": "Plastids",
+    "title": "Plastids",
+    "content": "Plastids are found in all plant cells and in euglenoides. These are easily observed under the microscope as they are large. They bear some specific pigments, thus imparting specific colours to the plants. Based on the type of pigments plastids can be classified into chloroplasts, chromoplasts and leucoplasts."
+  },
+  {
+    "id": "definition-409",
+    "chapter": "Plastids",
+    "title": "Chloroplasts",
+    "content": "The chloroplasts contain chlorophyll and carotenoid pigments which are responsible for trapping light energy essential for photosynthesis."
+  },
+  {
+    "id": "definition-410",
+    "chapter": "Plastids",
+    "title": "Chromoplasts",
+    "content": "In the chromoplasts, fat soluble carotenoid pigments like carotene, xanthophylls and others are present. This gives the part of the plant a yellow, orange or red colour."
+  },
+  {
+    "id": "definition-411",
+    "chapter": "Plastids",
+    "title": "Leucoplasts",
+    "content": "The leucoplasts are the colourless plastids of varied shapes and sizes with stored nutrients: Amyloplasts store carbohydrates (starch), e.g., potato; elaioplasts store oils and fats whereas the aleuroplasts store proteins."
+  },
+  {
+    "id": "definition-412",
+    "chapter": "Plastids",
+    "title": "Amyloplasts",
+    "content": "Amyloplasts store carbohydrates (starch), e.g., potato."
+  },
+  {
+    "id": "definition-413",
+    "chapter": "Plastids",
+    "title": "Elaioplasts",
+    "content": "Elaioplasts store oils and fats."
+  },
+  {
+    "id": "definition-414",
+    "chapter": "Plastids",
+    "title": "Aleuroplasts",
+    "content": "Aleuroplasts store proteins."
+  },
+  {
+    "id": "definition-415",
+    "chapter": "Plastids",
+    "title": "Stroma (Chloroplast)",
+    "content": "The space limited by the inner membrane of the chloroplast is called the stroma."
+  },
+  {
+    "id": "definition-416",
+    "chapter": "Plastids",
+    "title": "Thylakoids",
+    "content": "A number of organised flattened membranous sacs called the thylakoids, are present in the stroma. Thylakoids are arranged in stacks like the piles of coins called grana (singular: granum) or the intergranal thylakoids."
+  },
+  {
+    "id": "definition-417",
+    "chapter": "Plastids",
+    "title": "Grana",
+    "content": "Thylakoids are arranged in stacks like the piles of coins called grana (singular: granum) or the intergranal thylakoids."
+  },
+  {
+    "id": "definition-418",
+    "chapter": "Plastids",
+    "title": "Stroma lamellae",
+    "content": "In addition, there are flat membranous tubules called the stroma lamellae connecting the thylakoids of the different grana."
+  },
+  {
+    "id": "definition-419",
+    "chapter": "Cytoskeleton",
+    "title": "Cytoskeleton",
+    "content": "An elaborate network of filamentous proteinaceous structures consisting of microtubules, microfilaments and intermediate filaments present in the cytoplasm is collectively referred to as the cytoskeleton."
+  },
+  {
+    "id": "definition-420",
+    "chapter": "Cilia and Flagella",
+    "title": "Cilia",
+    "content": "Cilia (sing.: cilium) and flagella (sing.: flagellum) are hair-like outgrowths of the cell membrane. Cilia are small structures which work like oars, causing the movement of either the cell or the surrounding fluid."
+  },
+  {
+    "id": "definition-421",
+    "chapter": "Cilia and Flagella",
+    "title": "Flagella (Eukaryotic)",
+    "content": "Cilia (sing.: cilium) and flagella (sing.: flagellum) are hair-like outgrowths of the cell membrane. Flagella are comparatively longer and responsible for cell movement."
+  },
+  {
+    "id": "definition-422",
+    "chapter": "Cilia and Flagella",
+    "title": "Axoneme",
+    "content": "Their core called the axoneme, possesses a number of microtubules running parallel to the long axis. The axoneme usually has nine doublets of radially arranged peripheral microtubules, and a pair of centrally located microtubules. Such an arrangement of axonemal microtubules is referred to as the 9+2 array."
+  },
+  {
+    "id": "definition-423",
+    "chapter": "Centrosome and Centrioles",
+    "title": "Centrosome",
+    "content": "Centrosome is an organelle usually containing two cylindrical structures called centrioles. They are surrounded by amorphous pericentriolar materials."
+  },
+  {
+    "id": "definition-424",
+    "chapter": "Centrosome and Centrioles",
+    "title": "Centrioles",
+    "content": "Centrosome is an organelle usually containing two cylindrical structures called centrioles."
+  },
+  {
+    "id": "definition-425",
+    "chapter": "Nucleus",
+    "title": "Chromatin",
+    "content": "Later the material of the nucleus stained by the basic dyes was given the name chromatin by Flemming. The interphase nucleus (nucleus of a cell when it is not dividing) has highly extended and elaborate nucleoprotein fibres called chromatin, nuclear matrix and one or more spherical bodies called nucleoli (sing.: nucleolus)."
+  },
+  {
+    "id": "definition-426",
+    "chapter": "Nucleus",
+    "title": "Nuclear envelope",
+    "content": "Electron microscopy has revealed that the nuclear envelope, which consists of two parallel membranes with a space between (10 to 50 nm) called the perinuclear space, forms a barrier between the materials present inside the nucleus and that of the cytoplasm."
+  },
+  {
+    "id": "definition-427",
+    "chapter": "Nucleus",
+    "title": "Perinuclear space",
+    "content": "Electron microscopy has revealed that the nuclear envelope, which consists of two parallel membranes with a space between (10 to 50 nm) called the perinuclear space, forms a barrier between the materials present inside the nucleus and that of the cytoplasm."
+  },
+  {
+    "id": "definition-428",
+    "chapter": "Nucleus",
+    "title": "Nuclear pores",
+    "content": "At a number of places the nuclear envelope is interrupted by minute pores, which are formed by the fusion of its two membranes. These nuclear pores are the passages through which movement of RNA and protein molecules takes place in both directions between the nucleus and the cytoplasm."
+  },
+  {
+    "id": "definition-429",
+    "chapter": "Nucleus",
+    "title": "Nucleoplasm",
+    "content": "The nuclear matrix or the nucleoplasm contains nucleolus and chromatin."
+  },
+  {
+    "id": "definition-430",
+    "chapter": "Nucleus",
+    "title": "Nucleolus",
+    "content": "The interphase nucleus (nucleus of a cell when it is not dividing) has highly extended and elaborate nucleoprotein fibres called chromatin, nuclear matrix and one or more spherical bodies called nucleoli (sing.: nucleolus). The nucleoli are spherical structures present in the nucleoplasm. The content of nucleolus is continuous with the rest of the nucleoplasm as it is not a membrane bound structure. It is a site for active ribosomal RNA synthesis."
+  },
+  {
+    "id": "definition-431",
+    "chapter": "Nucleus",
+    "title": "Chromosomes",
+    "content": "But during different stages of cell division, cells show structured chromosomes in place of the nucleus. Chromatin contains DNA and some basic proteins called histones, some non-histone proteins and also RNA."
+  },
+  {
+    "id": "definition-432",
+    "chapter": "Nucleus",
+    "title": "Centromere",
+    "content": "Every chromosome (visible only in dividing cells) essentially has a primary constriction or the centromere on the sides of which disc shaped structures called kinetochores are present."
+  },
+  {
+    "id": "definition-433",
+    "chapter": "Nucleus",
+    "title": "Kinetochores",
+    "content": "Every chromosome (visible only in dividing cells) essentially has a primary constriction or the centromere on the sides of which disc shaped structures called kinetochores are present."
+  },
+  {
+    "id": "definition-434",
+    "chapter": "Nucleus",
+    "title": "Metacentric chromosome",
+    "content": "The metacentric chromosome has middle centromere forming two equal arms of the chromosome."
+  },
+  {
+    "id": "definition-435",
+    "chapter": "Nucleus",
+    "title": "Sub-metacentric chromosome",
+    "content": "The sub-metacentric chromosome has centromere slightly away from the middle of the chromosome resulting into one shorter arm and one longer arm."
+  },
+  {
+    "id": "definition-436",
+    "chapter": "Nucleus",
+    "title": "Acrocentric chromosome",
+    "content": "In case of acrocentric chromosome the centromere is situated close to its end forming one extremely short and one very long arm."
+  },
+  {
+    "id": "definition-437",
+    "chapter": "Nucleus",
+    "title": "Telocentric chromosome",
+    "content": "The telocentric chromosome has a terminal centromere."
+  },
+  {
+    "id": "definition-438",
+    "chapter": "Nucleus",
+    "title": "Satellite (Chromosome)",
+    "content": "Sometimes a few chromosomes have non-staining secondary constrictions at a constant location. This gives the appearance of a small fragment called the satellite."
+  },
+  {
+    "id": "definition-439",
+    "chapter": "Microbodies",
+    "title": "Microbodies",
+    "content": "Many membrane bound minute vesicles called microbodies that contain various enzymes, are present in both plant and animal cells."
+  },
+  {
+    "id": "definition-440",
+    "chapter": "HOW TO ANALYSE CHEMICAL COMPOSITION?",
+    "title": "Acid-soluble pool (filtrate)",
+    "content": "We can take any living tissue (a vegetable or a piece of liver, etc.) and grind it in trichloroacetic acid (Cl3CCOOH) using a mortar and a pestle. We obtain a thick slurry. If we were to strain this through a cheesecloth or cotton we would obtain two fractions. One is called the filtrate or more technically, the acid-soluble pool, and the second, the retentate or the acid-insoluble fraction."
+  },
+  {
+    "id": "definition-441",
+    "chapter": "HOW TO ANALYSE CHEMICAL COMPOSITION?",
+    "title": "Acid-insoluble fraction (retentate)",
+    "content": "We can take any living tissue (a vegetable or a piece of liver, etc.) and grind it in trichloroacetic acid (Cl3CCOOH) using a mortar and a pestle. We obtain a thick slurry. If we were to strain this through a cheesecloth or cotton we would obtain two fractions. One is called the filtrate or more technically, the acid-soluble pool, and the second, the retentate or the acid-insoluble fraction."
+  },
+  {
+    "id": "definition-442",
+    "chapter": "HOW TO ANALYSE CHEMICAL COMPOSITION?",
+    "title": "Biomolecules",
+    "content": "All the carbon compounds that we get from living tissues can be called ‘biomolecules’. However, living organisms have also got inorganic elements and compounds in them."
+  },
+  {
+    "id": "definition-443",
+    "chapter": "HOW TO ANALYSE CHEMICAL COMPOSITION?",
+    "title": "Wet weight",
+    "content": "One weighs a small amount of a living tissue (say a leaf or liver and this is called wet weight) and dry it."
+  },
+  {
+    "id": "definition-444",
+    "chapter": "HOW TO ANALYSE CHEMICAL COMPOSITION?",
+    "title": "Dry weight",
+    "content": "All the water, evaporates. The remaining material gives dry weight."
+  },
+  {
+    "id": "definition-445",
+    "chapter": "HOW TO ANALYSE CHEMICAL COMPOSITION?",
+    "title": "Ash",
+    "content": "Now if the tissue is fully burnt, all the carbon compounds are oxidised to gaseous form (CO2, water vapour) and are removed. What is remaining is called ‘ash’. This ash contains inorganic elements (like calcium, magnesium etc)."
+  },
+  {
+    "id": "definition-446",
+    "chapter": "BIOMOLECULES",
+    "title": "Amino acids",
+    "content": "Amino acids are organic compounds containing an amino group and an acidic group as substituents on the same carbon i.e., the α-carbon. Hence, they are called α-amino acids."
+  },
+  {
+    "id": "definition-447",
+    "chapter": "BIOMOLECULES",
+    "title": "Saturated fatty acids",
+    "content": "Fatty acids could be saturated (without double bond) or unsaturated (with one or more C=C double bonds)."
+  },
+  {
+    "id": "definition-448",
+    "chapter": "BIOMOLECULES",
+    "title": "Unsaturated fatty acids",
+    "content": "Fatty acids could be saturated (without double bond) or unsaturated (with one or more C=C double bonds)."
+  },
+  {
+    "id": "definition-449",
+    "chapter": "BIOMOLECULES",
+    "title": "Glycerol",
+    "content": "Another simple lipid is glycerol which is trihydroxy propane."
+  },
+  {
+    "id": "definition-450",
+    "chapter": "BIOMOLECULES",
+    "title": "Monoglycerides, diglycerides and triglycerides",
+    "content": "Many lipids have both glycerol and fatty acids. Here the fatty acids are found esterified with glycerol. They can be then monoglycerides, diglycerides and triglycerides."
+  },
+  {
+    "id": "definition-451",
+    "chapter": "BIOMOLECULES",
+    "title": "Fats and oils",
+    "content": "These are also called fats and oils based on melting point. Oils have lower melting point (e.g., gingelly oil) and hence remain as oil in winters."
+  },
+  {
+    "id": "definition-452",
+    "chapter": "BIOMOLECULES",
+    "title": "Phospholipids",
+    "content": "Some lipids have phosphorous and a phosphorylated organic compound in them. These are phospholipids. They are found in cell membrane. Lecithin is one example."
+  },
+  {
+    "id": "definition-453",
+    "chapter": "BIOMOLECULES",
+    "title": "Nitrogen bases",
+    "content": "Living organisms have a number of carbon compounds in which heterocyclic rings can be found. Some of these are nitrogen bases - adenine, guanine, cytosine, uracil, and thymine."
+  },
+  {
+    "id": "definition-454",
+    "chapter": "BIOMOLECULES",
+    "title": "Nucleosides",
+    "content": "When found attached to a sugar, they are called nucleosides."
+  },
+  {
+    "id": "definition-455",
+    "chapter": "BIOMOLECULES",
+    "title": "Nucleotides",
+    "content": "If a phosphate group is also found esterified to the sugar they are called nucleotides."
+  },
+  {
+    "id": "definition-456",
+    "chapter": "BIOMOLECULES",
+    "title": "Nucleic acids",
+    "content": "Nucleic acids like DNA and RNA consist of nucleotides only. DNA and RNA function as genetic material."
+  },
+  {
+    "id": "definition-457",
+    "chapter": "PRIMARY AND SECONDARY METABOLITES",
+    "title": "Metabolites",
+    "content": "If one were to make a list of biomolecules, such a list would have thousands of organic compounds including amino acids, sugars, etc. For reasons that are given in section 9.10, we can call these biomolecules as ‘metabolites’."
+  },
+  {
+    "id": "definition-458",
+    "chapter": "PRIMARY AND SECONDARY METABOLITES",
+    "title": "Primary metabolites",
+    "content": "In animal tissues, one notices the presence of all such categories of compounds shown in Figure 9.1. These are primary metabolites."
+  },
+  {
+    "id": "definition-459",
+    "chapter": "PRIMARY AND SECONDARY METABOLITES",
+    "title": "Secondary metabolites",
+    "content": "However, when one analyses plant, fungal and microbial cells, one would see thousands of compounds other than these primary metabolites, e.g. alkaloids, flavonoids, rubber, essential oils, antibiotics, coloured pigments, scents, gums, spices. These are called secondary metabolites."
+  },
+  {
+    "id": "definition-460",
+    "chapter": "BIOMACROMOLECULES",
+    "title": "Micromolecules or biomolecules",
+    "content": "For this very reason, biomolecules, i.e., chemical compounds found in living organisms are of two types. One, those which have molecular weights less than one thousand dalton and are usually referred to as micromolecules or simply biomolecules."
+  },
+  {
+    "id": "definition-461",
+    "chapter": "BIOMACROMOLECULES",
+    "title": "Macromolecules or biomacromolecules",
+    "content": "For this very reason, biomolecules, i.e., chemical compounds found in living organisms are of two types. While those which are found in the acid insoluble fraction are called macromolecules or biomacromolecules."
+  },
+  {
+    "id": "definition-462",
+    "chapter": "PROTEINS",
+    "title": "Proteins",
+    "content": "Proteins are polypeptides. They are linear chains of amino acids linked by peptide bonds. Each protein is a polymer of amino acids. As there are 20 types of amino acids (e.g., alanine, cysteine, proline, tryptophan, lysine, etc.), a protein is a heteropolymer and not a homopolymer."
+  },
+  {
+    "id": "definition-463",
+    "chapter": "PROTEINS",
+    "title": "Heteropolymer (Proteins)",
+    "content": "As there are 20 types of amino acids (e.g., alanine, cysteine, proline, tryptophan, lysine, etc.), a protein is a heteropolymer and not a homopolymer."
+  },
+  {
+    "id": "definition-464",
+    "chapter": "PROTEINS",
+    "title": "Homopolymer",
+    "content": "A homopolymer has only one type of monomer repeating ‘n’ number of times."
+  },
+  {
+    "id": "definition-465",
+    "chapter": "PROTEINS",
+    "title": "Essential amino acids",
+    "content": "This information about the amino acid content is important as later in your nutrition lessons, you will learn that certain amino acids are essential for our health and they have to be supplied through our diet. Hence, dietary proteins are the source of essential amino acids. Therefore, amino acids can be essential or non-essential."
+  },
+  {
+    "id": "definition-466",
+    "chapter": "PROTEINS",
+    "title": "Non-essential amino acids",
+    "content": "The latter are those which our body can make, while we get essential amino acids through our diet/food."
+  },
+  {
+    "id": "definition-467",
+    "chapter": "POLYSACCHARIDES",
+    "title": "Polysaccharides",
+    "content": "Polysaccharides are long chains of sugars. They are threads (literally a cotton thread) containing different monosaccharides as building blocks."
+  },
+  {
+    "id": "definition-468",
+    "chapter": "POLYSACCHARIDES",
+    "title": "Cellulose (Polysaccharide)",
+    "content": "For example, cellulose is a polymeric polysaccharide consisting of only one type of monosaccharide i.e., glucose. Cellulose is a homopolymer."
+  },
+  {
+    "id": "definition-469",
+    "chapter": "POLYSACCHARIDES",
+    "title": "Starch",
+    "content": "Starch is a variant of this but present as a store house of energy in plant tissues."
+  },
+  {
+    "id": "definition-470",
+    "chapter": "POLYSACCHARIDES",
+    "title": "Glycogen",
+    "content": "Animals have another variant called glycogen."
+  },
+  {
+    "id": "definition-471",
+    "chapter": "POLYSACCHARIDES",
+    "title": "Inulin",
+    "content": "Inulin is a polymer of fructose."
+  },
+  {
+    "id": "definition-472",
+    "chapter": "POLYSACCHARIDES",
+    "title": "Chitin",
+    "content": "Exoskeletons of arthropods, for example, have a complex polysaccharide called chitin."
+  },
+  {
+    "id": "definition-473",
+    "chapter": "NUCLEIC ACIDS",
+    "title": "Polynucleotides",
+    "content": "The other type of macromolecule that one would find in the acid insoluble fraction of any living tissue is the nucleic acid. These are polynucleotides."
+  },
+  {
+    "id": "definition-474",
+    "chapter": "NUCLEIC ACIDS",
+    "title": "Nucleotide (Building block)",
+    "content": "For nucleic acids, the building block is a nucleotide. A nucleotide has three chemically distinct components. One is a heterocyclic compound, the second is a monosaccharide and the third a phosphoric acid or phosphate."
+  },
+  {
+    "id": "definition-475",
+    "chapter": "NUCLEIC ACIDS",
+    "title": "Deoxyribonucleic acid (DNA)",
+    "content": "A nucleic acid containing deoxyribose is called deoxyribonucleic acid (DNA)."
+  },
+  {
+    "id": "definition-476",
+    "chapter": "NUCLEIC ACIDS",
+    "title": "Ribonucleic acid (RNA)",
+    "content": "While that which contains ribose is called ribonucleic acid (RNA)."
+  },
+  {
+    "id": "definition-477",
+    "chapter": "STRUCTURE OF PROTEINS",
+    "title": "Primary structure (Protein)",
+    "content": "The sequence of amino acids i.e., the positional information in a protein – which is the first amino acid, which is second, and so on – is called the primary structure of a protein."
+  },
+  {
+    "id": "definition-478",
+    "chapter": "STRUCTURE OF PROTEINS",
+    "title": "N-terminal amino acid",
+    "content": "A protein is imagined as a line, the left end represented by the first amino acid and the right end represented by the last amino acid. The first amino acid is also called as N-terminal amino acid."
+  },
+  {
+    "id": "definition-479",
+    "chapter": "STRUCTURE OF PROTEINS",
+    "title": "C-terminal amino acid",
+    "content": "The last amino acid is called the C-terminal amino acid."
+  },
+  {
+    "id": "definition-480",
+    "chapter": "STRUCTURE OF PROTEINS",
+    "title": "Secondary structure (Protein)",
+    "content": "The thread is folded in the form of a helix (similar to a revolving staircase). Of course, only some portions of the protein thread are arranged in the form of a helix. In proteins, only right handed helices are observed. Other regions of the protein thread are folded into other forms in what is called the secondary structure."
+  },
+  {
+    "id": "definition-481",
+    "chapter": "STRUCTURE OF PROTEINS",
+    "title": "Tertiary structure (Protein)",
+    "content": "In addition, the long protein chain is also folded upon itself like a hollow woolen ball, giving rise to the tertiary structure. This gives us a 3-dimensional view of a protein. Tertiary structure is absolutely necessary for the many biological activities of proteins."
+  },
+  {
+    "id": "definition-482",
+    "chapter": "STRUCTURE OF PROTEINS",
+    "title": "Quaternary structure (Protein)",
+    "content": "Some proteins are an assembly of more than one polypeptide or subunits. The manner in which these individual folded polypeptides or subunits are arranged with respect to each other (e.g. linear string of spheres, spheres arranged one upon each other in the form of a cube or plate etc.) is the architecture of a protein otherwise called the quaternary structure of a protein."
+  },
+  {
+    "id": "definition-483",
+    "chapter": "ENZYMES",
+    "title": "Enzymes",
+    "content": "Almost all enzymes are proteins. There are some nucleic acids that behave like enzymes. These are called ribozymes."
+  },
+  {
+    "id": "definition-484",
+    "chapter": "ENZYMES",
+    "title": "Ribozymes",
+    "content": "There are some nucleic acids that behave like enzymes. These are called ribozymes."
+  },
+  {
+    "id": "definition-485",
+    "chapter": "ENZYMES",
+    "title": "Active site (Enzyme)",
+    "content": "When you look at a tertiary structure upon itself, the chain criss-crosses itself and hence, many crevices or pockets are made. One such pocket is the ‘active site’. An active site of an enzyme is a crevice or pocket into which the substrate fits. Thus enzymes, through their active site, catalyse reactions at a high rate."
+  },
+  {
+    "id": "definition-486",
+    "chapter": "Chemical Reactions",
+    "title": "Chemical reaction",
+    "content": "However, when bonds are broken and new bonds are formed during transformation, this will be called a chemical reaction."
+  },
+  {
+    "id": "definition-487",
+    "chapter": "How do Enzymes bring about such High Rates of Chemical Conversions?",
+    "title": "Substrate (Enzyme)",
+    "content": "The chemical which is converted into a product is called a ‘substrate’."
+  },
+  {
+    "id": "definition-488",
+    "chapter": "How do Enzymes bring about such High Rates of Chemical Conversions?",
+    "title": "ES complex (Enzyme-substrate complex)",
+    "content": "There is thus, an obligatory formation of an ‘ES’ complex. E stands for enzyme. This complex formation is a transient phenomenon."
+  },
+  {
+    "id": "definition-489",
+    "chapter": "How do Enzymes bring about such High Rates of Chemical Conversions?",
+    "title": "Transition state structure",
+    "content": "During the state where substrate is bound to the enzyme active site, a new structure of the substrate called transition state structure is formed."
+  },
+  {
+    "id": "definition-490",
+    "chapter": "How do Enzymes bring about such High Rates of Chemical Conversions?",
+    "title": "Activation energy",
+    "content": "The difference in average energy content of ‘S’ from that of this transition state is called ‘activation energy’."
+  },
+  {
+    "id": "definition-491",
+    "chapter": "Factors Affecting Enzyme Activity",
+    "title": "Optimum temperature (Enzyme)",
+    "content": "Each enzyme shows its highest activity at a particular temperature and pH called the optimum temperature and optimum pH."
+  },
+  {
+    "id": "definition-492",
+    "chapter": "Factors Affecting Enzyme Activity",
+    "title": "Optimum pH (Enzyme)",
+    "content": "Each enzyme shows its highest activity at a particular temperature and pH called the optimum temperature and optimum pH."
+  },
+  {
+    "id": "definition-493",
+    "chapter": "Factors Affecting Enzyme Activity",
+    "title": "Inhibition (Enzyme)",
+    "content": "The activity of an enzyme is also sensitive to the presence of specific chemicals that bind to the enzyme. When the binding of the chemical shuts off enzyme activity, the process is called inhibition and the chemical is called an inhibitor."
+  },
+  {
+    "id": "definition-494",
+    "chapter": "Factors Affecting Enzyme Activity",
+    "title": "Inhibitor",
+    "content": "The activity of an enzyme is also sensitive to the presence of specific chemicals that bind to the enzyme. When the binding of the chemical shuts off enzyme activity, the process is called inhibition and the chemical is called an inhibitor."
+  },
+  {
+    "id": "definition-495",
+    "chapter": "Factors Affecting Enzyme Activity",
+    "title": "Competitive inhibitor",
+    "content": "When the inhibitor closely resembles the substrate in its molecular structure and inhibits the activity of the enzyme, it is known as competitive inhibitor. Due to its close structural similarity with the substrate, the inhibitor competes with the substrate for the substrate-binding site of the enzyme. Consequently, the substrate cannot bind and as a result, the enzyme action declines, e.g., inhibition of succinic dehydrogenase by malonate which closely resembles the substrate succinate in structure."
+  },
+  {
+    "id": "definition-496",
+    "chapter": "Classification and Nomenclature of Enzymes",
+    "title": "Oxidoreductases/dehydrogenases",
+    "content": "Enzymes which catalyse oxidoreduction between two substrates S and S’ e.g., S reduced + S’ oxidised  → S oxidised + S’ reduced."
+  },
+  {
+    "id": "definition-497",
+    "chapter": "Classification and Nomenclature of Enzymes",
+    "title": "Transferases",
+    "content": "Enzymes catalysing a transfer of a group, G (other than hydrogen) between a pair of substrate S and S’ e.g., S - G + S’  → S + S’ - G."
+  },
+  {
+    "id": "definition-498",
+    "chapter": "Classification and Nomenclature of Enzymes",
+    "title": "Hydrolases",
+    "content": "Enzymes catalysing hydrolysis of ester, ether, peptide, glycosidic, C-C, C-halide or P-N bonds."
+  },
+  {
+    "id": "definition-499",
+    "chapter": "Classification and Nomenclature of Enzymes",
+    "title": "Lyases",
+    "content": "Enzymes that catalyse removal of groups from substrates by mechanisms other than hydrolysis leaving double bonds."
+  },
+  {
+    "id": "definition-500",
+    "chapter": "Classification and Nomenclature of Enzymes",
+    "title": "Isomerases",
+    "content": "Includes all enzymes catalysing inter-conversion of optical, geometric or positional isomers."
+  },
+  {
+    "id": "definition-501",
+    "chapter": "Classification and Nomenclature of Enzymes",
+    "title": "Ligases",
+    "content": "Enzymes catalysing the linking together of 2 compounds, e.g., enzymes which catalyse joining of C-O, C-S, C-N, P-O etc. bonds."
+  },
+  {
+    "id": "definition-502",
+    "chapter": "Co-factors",
+    "title": "Co-factors (Enzymes)",
+    "content": "However, there are a number of cases in which non-protein constituents called co-factors are bound to the the enzyme to make the enzyme catalytically active."
+  },
+  {
+    "id": "definition-503",
+    "chapter": "Co-factors",
+    "title": "Apoenzyme",
+    "content": "In these instances, the protein portion of the enzymes is called the apoenzyme."
+  },
+  {
+    "id": "definition-504",
+    "chapter": "Co-factors",
+    "title": "Prosthetic groups",
+    "content": "Prosthetic groups are organic compounds and are distinguished from other cofactors in that they are tightly bound to the apoenzyme."
+  },
+  {
+    "id": "definition-505",
+    "chapter": "Co-factors",
+    "title": "Co-enzymes",
+    "content": "Co-enzymes are also organic compounds but their association with the apoenzyme is only transient, usually occurring during the course of catalysis. Furthermore, co-enzymes serve as co-factors in a number of different enzyme catalyzed reactions. The essential chemical components of many coenzymes are vitamins, e.g., coenzyme nicotinamide adenine dinucleotide (NAD) and NADP contain the vitamin niacin."
+  },
+  {
+    "id": "definition-506",
+    "chapter": "Co-factors",
+    "title": "Metal ions (Enzyme cofactor)",
+    "content": "A number of enzymes require metal ions for their activity which form coordination bonds with side chains at the active site and at the same time form one or more cordination bonds with the substrate, e.g., zinc is a cofactor for the proteolytic enzyme carboxypeptidase."
+  },
+  {
+    "id": "definition-507",
+    "chapter": "CELL CYCLE",
+    "title": "Cell cycle",
+    "content": "The sequence of events by which a cell duplicates its genome, synthesises the other constituents of the cell and eventually divides into two daughter cells is termed cell cycle."
+  },
+  {
+    "id": "definition-508",
+    "chapter": "Phases of Cell Cycle",
+    "title": "Interphase",
+    "content": "The cell cycle is divided into two basic phases: Interphase and M Phase (Mitosis phase). The interphase represents the phase between two successive M phases."
+  },
+  {
+    "id": "definition-509",
+    "chapter": "Phases of Cell Cycle",
+    "title": "M Phase (Mitosis phase)",
+    "content": "The cell cycle is divided into two basic phases: Interphase and M Phase (Mitosis phase). The M Phase represents the phase when the actual cell division or mitosis occurs."
+  },
+  {
+    "id": "definition-510",
+    "chapter": "Phases of Cell Cycle",
+    "title": "Karyokinesis",
+    "content": "The M Phase starts with the nuclear division, corresponding to the separation of daughter chromosomes (karyokinesis) and usually ends with division of cytoplasm (cytokinesis)."
+  },
+  {
+    "id": "definition-511",
+    "chapter": "Phases of Cell Cycle",
+    "title": "Cytokinesis",
+    "content": "The M Phase starts with the nuclear division, corresponding to the separation of daughter chromosomes (karyokinesis) and usually ends with division of cytoplasm (cytokinesis)."
+  },
+  {
+    "id": "definition-512",
+    "chapter": "Phases of Cell Cycle",
+    "title": "G1 phase (Gap 1)",
+    "content": "The interphase is divided into three further phases: G1 phase (Gap 1), S phase (Synthesis), G2 phase (Gap 2). G1 phase corresponds to the interval between mitosis and initiation of DNA replication. During G1 phase, the cell is metabolically active and continuously grows but does not replicate its DNA."
+  },
+  {
+    "id": "definition-513",
+    "chapter": "Phases of Cell Cycle",
+    "title": "S phase (Synthesis)",
+    "content": "S or synthesis phase marks the period during which DNA synthesis or replication takes place. During this time the amount of DNA per cell doubles."
+  },
+  {
+    "id": "definition-514",
+    "chapter": "Phases of Cell Cycle",
+    "title": "G2 phase (Gap 2)",
+    "content": "During the G2 phase, proteins are synthesised in preparation for mitosis while cell growth continues."
+  },
+  {
+    "id": "definition-515",
+    "chapter": "Phases of Cell Cycle",
+    "title": "Quiescent stage (G0)",
+    "content": "These cells that do not divide further exit G1 phase to enter an inactive stage called quiescent stage (G0) of the cell cycle. Cells in this stage remain metabolically active but no longer proliferate unless called on to do so depending on the requirement of the organism."
+  },
+  {
+    "id": "definition-516",
+    "chapter": "M PHASE",
+    "title": "Equational division (Mitosis)",
+    "content": "Since the number of chromosomes in the parent and progeny cells is the same, it is also called as equational division."
+  },
+  {
+    "id": "definition-517",
+    "chapter": "Prophase (Mitosis)",
+    "title": "Prophase (Mitosis)",
+    "content": "Prophase which is the first stage of karyokinesis of mitosis follows the S and G2 phases of interphase. Prophase is marked by the initiation of condensation of chromosomal material. The chromosomal material becomes untangled during the process of chromatin condensation."
+  },
+  {
+    "id": "definition-518",
+    "chapter": "Prophase (Mitosis)",
+    "title": "Mitotic apparatus",
+    "content": "Each centrosome radiates out microtubules called asters. The two asters together with spindle fibres forms mitotic apparatus."
+  },
+  {
+    "id": "definition-519",
+    "chapter": "Metaphase (Mitosis)",
+    "title": "Metaphase (Mitosis)",
+    "content": "The complete disintegration of the nuclear envelope marks the start of the second phase of mitosis. By this stage, condensation of chromosomes is completed and they can be observed clearly under the microscope. This then, is the stage at which morphology of chromosomes is most easily studied."
+  },
+  {
+    "id": "definition-520",
+    "chapter": "Metaphase (Mitosis)",
+    "title": "Kinetochores",
+    "content": "Small disc-shaped structures at the surface of the centromeres are called kinetochores. These structures serve as the sites of attachment of spindle fibres to the chromosomes that are moved into position at the centre of the cell."
+  },
+  {
+    "id": "definition-521",
+    "chapter": "Metaphase (Mitosis)",
+    "title": "Metaphase plate",
+    "content": "The plane of alignment of the chromosomes at metaphase is referred to as the metaphase plate."
+  },
+  {
+    "id": "definition-522",
+    "chapter": "Anaphase (Mitosis)",
+    "title": "Anaphase (Mitosis)",
+    "content": "At the onset of anaphase, each chromosome arranged at the metaphase plate is split simultaneously and the two daughter chromatids, now referred to as daughter chromosomes of the future daughter nuclei, begin their migration towards the two opposite poles."
+  },
+  {
+    "id": "definition-523",
+    "chapter": "Telophase (Mitosis)",
+    "title": "Telophase (Mitosis)",
+    "content": "At the beginning of the final stage of karyokinesis, i.e., telophase, the chromosomes that have reached their respective poles decondense and lose their individuality. The individual chromosomes can no longer be seen and each set of chromatin material tends to collect at each of the two poles."
+  },
+  {
+    "id": "definition-524",
+    "chapter": "Cytokinesis",
+    "title": "Cell-plate",
+    "content": "In plant cells, wall formation starts in the centre of the cell and grows outward to meet the existing lateral walls. The formation of the new cell wall begins with the formation of a simple precursor, called the cell-plate that represents the middle lamella between the walls of two adjacent cells."
+  },
+  {
+    "id": "definition-525",
+    "chapter": "Cytokinesis",
+    "title": "Syncytium",
+    "content": "In some organisms karyokinesis is not followed by cytokinesis as a result of which multinucleate condition arises leading to the formation of syncytium (e.g., liquid endosperm in coconut)."
+  },
+  {
+    "id": "definition-526",
+    "chapter": "MEIOSIS",
+    "title": "Meiosis",
+    "content": "This specialised kind of cell division that reduces the chromosome number by half results in the production of haploid daughter cells. This kind of division is called meiosis."
+  },
+  {
+    "id": "definition-527",
+    "chapter": "Meiosis I",
+    "title": "Meiosis I",
+    "content": "Meiosis involves two sequential cycles of nuclear and cell division called meiosis I and meiosis II but only a single cycle of DNA replication."
+  },
+  {
+    "id": "definition-528",
+    "chapter": "Meiosis I",
+    "title": "Meiosis II",
+    "content": "Meiosis involves two sequential cycles of nuclear and cell division called meiosis I and meiosis II but only a single cycle of DNA replication."
+  },
+  {
+    "id": "definition-529",
+    "chapter": "Meiosis I",
+    "title": "Leptotene",
+    "content": "Prophase of the first meiotic division is typically longer and more complex when compared to prophase of mitosis. It has been further subdivided into the following five phases based on chromosomal behaviour, i.e., Leptotene, Zygotene, Pachytene, Diplotene and Diakinesis. During leptotene stage the chromosomes become gradually visible under the light microscope. The compaction of chromosomes continues throughout leptotene."
+  },
+  {
+    "id": "definition-530",
+    "chapter": "Meiosis I",
+    "title": "Zygotene",
+    "content": "This is followed by the second stage of prophase I called zygotene. During this stage, chromosomes start pairing together and this process of association is called synapsis."
+  },
+  {
+    "id": "definition-531",
+    "chapter": "Meiosis I",
+    "title": "Synapsis",
+    "content": "During this stage (zygotene), chromosomes start pairing together and this process of association is called synapsis."
+  },
+  {
+    "id": "definition-532",
+    "chapter": "Meiosis I",
+    "title": "Homologous chromosomes",
+    "content": "Such paired chromosomes are called homologous chromosomes."
+  },
+  {
+    "id": "definition-533",
+    "chapter": "Meiosis I",
+    "title": "Synaptonemal complex",
+    "content": "Electron micrographs of this stage (zygotene), indicate that chromosome synapsis is accompanied by the formation of complex structure called synaptonemal complex."
+  },
+  {
+    "id": "definition-534",
+    "chapter": "Meiosis I",
+    "title": "Bivalent or tetrad (Meiosis I)",
+    "content": "The complex formed by a pair of synapsed homologous chromosomes is called a bivalent or a tetrad."
+  },
+  {
+    "id": "definition-535",
+    "chapter": "Meiosis I",
+    "title": "Pachytene",
+    "content": "The first two stages of prophase I are relatively short-lived compared to the next stage that is pachytene. During this stage, the four chromatids of each bivalent chromosomes becomes distinct and clearly appear as tetrads. This stage is characterised by the appearance of recombination nodules, the sites at which crossing over occurs between non-sister chromatids of the homologous chromosomes."
+  },
+  {
+    "id": "definition-536",
+    "chapter": "Meiosis I",
+    "title": "Recombination nodules",
+    "content": "This stage (pachytene) is characterised by the appearance of recombination nodules, the sites at which crossing over occurs between non-sister chromatids of the homologous chromosomes."
+  },
+  {
+    "id": "definition-537",
+    "chapter": "Meiosis I",
+    "title": "Crossing over",
+    "content": "Crossing over is the exchange of genetic material between two homologous chromosomes. Crossing over is also an enzyme-mediated process and the enzyme involved is called recombinase."
+  },
+  {
+    "id": "definition-538",
+    "chapter": "Meiosis I",
+    "title": "Recombinase",
+    "content": "Crossing over is also an enzyme-mediated process and the enzyme involved is called recombinase."
+  },
+  {
+    "id": "definition-539",
+    "chapter": "Meiosis I",
+    "title": "Diplotene",
+    "content": "The beginning of diplotene is recognised by the dissolution of the synaptonemal complex and the tendency of the recombined homologous chromosomes of the bivalents to separate from each other except at the sites of crossovers."
+  },
+  {
+    "id": "definition-540",
+    "chapter": "Meiosis I",
+    "title": "Chiasmata",
+    "content": "These X-shaped structures, are called chiasmata."
+  },
+  {
+    "id": "definition-541",
+    "chapter": "Meiosis I",
+    "title": "Diakinesis",
+    "content": "The final stage of meiotic prophase I is diakinesis. This is marked by terminalisation of chiasmata. During this phase the chromosomes are fully condensed and the meiotic spindle is assembled to prepare the homologous chromosomes for separation. By the end of diakinesis, the nucleolus disappears and the nuclear envelope also breaks down."
+  },
+  {
+    "id": "definition-542",
+    "chapter": "Meiosis I",
+    "title": "Metaphase I (Meiosis)",
+    "content": "The bivalent chromosomes align on the equatorial plate. The microtubules from the opposite poles of the spindle attach to the kinetochore of homologous chromosomes."
+  },
+  {
+    "id": "definition-543",
+    "chapter": "Meiosis I",
+    "title": "Anaphase I (Meiosis)",
+    "content": "The homologous chromosomes separate, while sister chromatids remain associated at their centromeres."
+  },
+  {
+    "id": "definition-544",
+    "chapter": "Meiosis I",
+    "title": "Telophase I (Meiosis)",
+    "content": "The nuclear membrane and nucleolus reappear, cytokinesis follows and this is called as dyad of cells."
+  },
+  {
+    "id": "definition-545",
+    "chapter": "Meiosis I",
+    "title": "Interkinesis",
+    "content": "The stage between the two meiotic divisions is called interkinesis and is generally short lived. There is no replication of DNA during interkinesis."
+  },
+  {
+    "id": "definition-546",
+    "chapter": "Meiosis II",
+    "title": "Prophase II (Meiosis)",
+    "content": "Interkinesis is followed by prophase II, a much simpler prophase than prophase I. Meiosis II is initiated immediately after cytokinesis, usually before the chromosomes have fully elongated. In contrast to meiosis I, meiosis II resembles a normal mitosis. The nuclear membrane disappears by the end of prophase II. The chromosomes again become compact."
+  },
+  {
+    "id": "definition-547",
+    "chapter": "Meiosis II",
+    "title": "Metaphase II (Meiosis)",
+    "content": "At this stage (Metaphase II), the chromosomes align at the equator and the microtubules from opposite poles of the spindle get attached to the kinetochores of sister chromatids."
+  },
+  {
+    "id": "definition-548",
+    "chapter": "Meiosis II",
+    "title": "Anaphase II (Meiosis)",
+    "content": "It begins with the simultaneous splitting of the centromere of each chromosome (which was holding the sister chromatids together), allowing them to move toward opposite poles of the cell by shortening of microtubules attached to kinetochores."
+  },
+  {
+    "id": "definition-549",
+    "chapter": "Meiosis II",
+    "title": "Telophase II (Meiosis)",
+    "content": "Meiosis ends with telophase II, in which the two groups of chromosomes once again get enclosed by a nuclear envelope; cytokinesis follows resulting in the formation of tetrad of cells i.e., four haploid daughter cells."
+  },
+  {
+    "id": "definition-550",
+    "chapter": "PHOTOSYNTHESIS",
+    "title": "Photosynthesis",
+    "content": "The green plants make or rather synthesise the food they need through photosynthesis and are therefore called autotrophs. Green plants carry out ‘photosynthesis’, a physico-chemical process by which they use light energy to drive the synthesis of organic compounds."
+  },
+  {
+    "id": "definition-551",
+    "chapter": "PHOTOSYNTHESIS",
+    "title": "Autotrophs",
+    "content": "Green plants, in fact, have to make or rather synthesise the food they need and all other organisms depend on them for their needs. The green plants make or rather synthesise the food they need through photosynthesis and are therefore called autotrophs."
+  },
+  {
+    "id": "definition-552",
+    "chapter": "PHOTOSYNTHESIS",
+    "title": "Heterotrophs",
+    "content": "You have already learnt that the autotrophic nutrition is found only in plants and all other organisms that depend on the green plants for food are heterotrophs."
+  },
+  {
+    "id": "definition-553",
+    "chapter": "WHERE DOES PHOTOSYNTHESIS TAKE PLACE?",
+    "title": "Light reactions (Photochemical reactions)",
+    "content": "The membrane system is responsible for trapping the light energy and also for the synthesis of ATP and NADPH. The former set of reactions, since they are directly light driven are called light reactions (photochemical reactions)."
+  },
+  {
+    "id": "definition-554",
+    "chapter": "WHERE DOES PHOTOSYNTHESIS TAKE PLACE?",
+    "title": "Dark reactions (Carbon reactions)",
+    "content": "The latter (enzymatic reactions in stroma) are not directly light driven but are dependent on the products of light reactions (ATP and NADPH). Hence, to distinguish the latter they are called, by convention, as dark reactions (carbon reactions)."
+  },
+  {
+    "id": "definition-555",
+    "chapter": "HOW MANY TYPES OF PIGMENTS ARE INVOLVED IN PHOTOSYNTHESIS?",
+    "title": "Pigments (Photosynthesis)",
+    "content": "Pigments are substances that have an ability to absorb light, at specific wavelengths."
+  },
+  {
+    "id": "definition-556",
+    "chapter": "HOW MANY TYPES OF PIGMENTS ARE INVOLVED IN PHOTOSYNTHESIS?",
+    "title": "Accessory pigments",
+    "content": "Though chlorophyll is the major pigment responsible for trapping light, other thylakoid pigments like chlorophyll b, xanthophylls and carotenoids, which are called accessory pigments, also absorb light and transfer the energy to chlorophyll a. Indeed, they not only enable a wider range of wavelength of incoming light to be utilised for photosyntesis but also protect chlorophyll a from photo-oxidation."
+  },
+  {
+    "id": "definition-557",
+    "chapter": "WHAT IS LIGHT REACTION?",
+    "title": "Light Harvesting Complexes (LHC)",
+    "content": "The pigments are organised into two discrete photochemical light harvesting complexes (LHC) within the Photosystem I (PS I) and Photosystem II (PS II). Each photosystem has all the pigments (except one molecule of chlorophyll a) forming a light harvesting system also called antennae."
+  },
+  {
+    "id": "definition-558",
+    "chapter": "WHAT IS LIGHT REACTION?",
+    "title": "Antennae (Photosynthesis)",
+    "content": "Each photosystem has all the pigments (except one molecule of chlorophyll a) forming a light harvesting system also called antennae. These pigments help to make photosynthesis more efficient by absorbing different wavelengths of light."
+  },
+  {
+    "id": "definition-559",
+    "chapter": "WHAT IS LIGHT REACTION?",
+    "title": "Reaction centre (Photosynthesis)",
+    "content": "The single chlorophyll a molecule forms the reaction centre. The reaction centre is different in both the photosystems. In PS I the reaction centre chlorophyll a has an absorption peak at 700 nm, hence is called P700, while in PS II it has absorption maxima at 680 nm, and is called P680."
+  },
+  {
+    "id": "definition-560",
+    "chapter": "WHAT IS LIGHT REACTION?",
+    "title": "Photosystem I (PS I)",
+    "content": "The pigments are organised into two discrete photochemical light harvesting complexes (LHC) within the Photosystem I (PS I) and Photosystem II (PS II). In PS I the reaction centre chlorophyll a has an absorption peak at 700 nm, hence is called P700."
+  },
+  {
+    "id": "definition-561",
+    "chapter": "WHAT IS LIGHT REACTION?",
+    "title": "Photosystem II (PS II)",
+    "content": "The pigments are organised into two discrete photochemical light harvesting complexes (LHC) within the Photosystem I (PS I) and Photosystem II (PS II). In PS II it has absorption maxima at 680 nm, and is called P680."
+  },
+  {
+    "id": "definition-562",
+    "chapter": "THE ELECTRON TRANSPORT",
+    "title": "Z scheme",
+    "content": "This whole scheme of transfer of electrons, starting from the PS II, uphill to the acceptor, down the electron transport chain to PS I, excitation of electrons, transfer to another acceptor, and finally down hill to NADP+ reducing it to NADPH + H+ is called the Z scheme, due to its characteristic shape."
+  },
+  {
+    "id": "definition-563",
+    "chapter": "Cyclic and Non-cyclic Photo-phosphorylation",
+    "title": "Phosphorylation (Photosynthesis)",
+    "content": "The process through which ATP is synthesised by cells (in mitochondria and chloroplasts) is named phosphorylation. Photo-phosphorylation is the synthesis of ATP from ADP and inorganic phosphate in the presence of light."
+  },
+  {
+    "id": "definition-564",
+    "chapter": "Cyclic and Non-cyclic Photo-phosphorylation",
+    "title": "Photo-phosphorylation",
+    "content": "Photo-phosphorylation is the synthesis of ATP from ADP and inorganic phosphate in the presence of light."
+  },
+  {
+    "id": "definition-565",
+    "chapter": "Cyclic and Non-cyclic Photo-phosphorylation",
+    "title": "Non-cyclic photo-phosphorylation",
+    "content": "When the two photosystems work in a series, first PS II and then the PS I, a process called non-cyclic photo-phosphorylation occurs. The two photosystems are connected through an electron transport chain, as seen earlier – in the Z scheme. Both ATP and NADPH + H+ are synthesised by this kind of electron flow."
+  },
+  {
+    "id": "definition-566",
+    "chapter": "Cyclic and Non-cyclic Photo-phosphorylation",
+    "title": "Cyclic photo-phosphorylation",
+    "content": "When only PS I is functional, the electron is circulated within the photosystem and the phosphorylation occurs due to cyclic flow of electrons. The cyclic flow hence, results only in the synthesis of ATP, but not of NADPH + H+."
+  },
+  {
+    "id": "definition-567",
+    "chapter": "Chemiosmotic Hypothesis",
+    "title": "Chemiosmotic hypothesis",
+    "content": "The chemiosmotic hypothesis has been put forward to explain the mechanism (of ATP synthesis in the chloroplast). Like in respiration, in photosynthesis too, ATP synthesis is linked to development of a proton gradient across a membrane. This time these are the membranes of thylakoid."
+  },
+  {
+    "id": "definition-568",
+    "chapter": "Chemiosmotic Hypothesis",
+    "title": "ATP synthase (Photosynthesis)",
+    "content": "The ATP synthase enzyme consists of two parts: one called the CF0 is embedded in the thylakoid membrane and forms a transmembrane channel that carries out facilitated diffusion of protons across the membrane. The other portion is called CF1 and protrudes on the outer surface of the thylakoid membrane on the side that faces the stroma."
+  },
+  {
+    "id": "definition-569",
+    "chapter": "WHERE ARE THE ATP AND NADPH USED?",
+    "title": "Biosynthetic phase (Photosynthesis)",
+    "content": "The products of light reaction are ATP, NADPH and O2. Of these O2 diffuses out of the chloroplast while ATP and NADPH are used to drive the processes leading to the synthesis of food, more accurately, sugars. This is the biosynthetic phase of photosynthesis."
+  },
+  {
+    "id": "definition-570",
+    "chapter": "WHERE ARE THE ATP AND NADPH USED?",
+    "title": "Calvin cycle",
+    "content": "The use of radioactive 14C by him (Melvin Calvin) in algal photosynthesis studies led to the discovery that the first CO2 fixation product was a 3-carbon organic acid. He also contributed to working out the complete biosynthetic pathway; hence it was called Calvin cycle after him."
+  },
+  {
+    "id": "definition-571",
+    "chapter": "WHERE ARE THE ATP AND NADPH USED?",
+    "title": "PGA (3-phosphoglyceric acid)",
+    "content": "The first product identified was 3-phosphoglyceric acid or in short PGA."
+  },
+  {
+    "id": "definition-572",
+    "chapter": "WHERE ARE THE ATP AND NADPH USED?",
+    "title": "OAA (Oxaloacetic acid)",
+    "content": "Experiments conducted over a wide range of plants led to the discovery of another group of plants, where the first stable product of CO2 fixation was again an organic acid, but one which had 4 carbon atoms in it. This acid was identified to be oxaloacetic acid or OAA."
+  },
+  {
+    "id": "definition-573",
+    "chapter": "WHERE ARE THE ATP AND NADPH USED?",
+    "title": "C3 pathway",
+    "content": "Since then CO2 assimilation during photosynthesis was said to be of two main types: those plants in which the first product of CO2 fixation is a C3 acid (PGA), i.e., the C3 pathway, and those in which the first product was a C4 acid (OAA), i.e., the C4 pathway."
+  },
+  {
+    "id": "definition-574",
+    "chapter": "WHERE ARE THE ATP AND NADPH USED?",
+    "title": "C4 pathway",
+    "content": "Since then CO2 assimilation during photosynthesis was said to be of two main types: those plants in which the first product of CO2 fixation is a C3 acid (PGA), i.e., the C3 pathway, and those in which the first product was a C4 acid (OAA), i.e., the C4 pathway."
+  },
+  {
+    "id": "definition-575",
+    "chapter": "The Primary Acceptor of CO2",
+    "title": "Ribulose bisphosphate (RuBP)",
+    "content": "The studies very unexpectedly showed that the acceptor molecule was a 5-carbon ketose sugar – ribulose bisphosphate (RuBP)."
+  },
+  {
+    "id": "definition-576",
+    "chapter": "The Calvin Cycle",
+    "title": "Carboxylation (Calvin Cycle)",
+    "content": "Carboxylation – Carboxylation is the fixation of CO2 into a stable organic intermediate. Carboxylation is the most crucial step of the Calvin cycle where CO2 is utilised for the carboxylation of RuBP. This reaction is catalysed by the enzyme RuBP carboxylase which results in the formation of two molecules of 3-PGA. Since this enzyme also has an oxygenation activity it would be more correct to call it RuBP carboxylase-oxygenase or RuBisCO."
+  },
+  {
+    "id": "definition-577",
+    "chapter": "The Calvin Cycle",
+    "title": "RuBP carboxylase-oxygenase (RuBisCO)",
+    "content": "This reaction (carboxylation of RuBP) is catalysed by the enzyme RuBP carboxylase which results in the formation of two molecules of 3-PGA. Since this enzyme also has an oxygenation activity it would be more correct to call it RuBP carboxylase-oxygenase or RuBisCO."
+  },
+  {
+    "id": "definition-578",
+    "chapter": "The Calvin Cycle",
+    "title": "Reduction (Calvin Cycle)",
+    "content": "Reduction – These are a series of reactions that lead to the formation of glucose. The steps involve utilisation of 2 molecules of ATP for phosphorylation and two of NADPH for reduction per CO2 molecule fixed. The fixation of six molecules of CO2 and 6 turns of the cycle are required for the formation of one molecule of glucose from the pathway."
+  },
+  {
+    "id": "definition-579",
+    "chapter": "The Calvin Cycle",
+    "title": "Regeneration (Calvin Cycle)",
+    "content": "Regeneration – Regeneration of the CO2 acceptor molecule RuBP is crucial if the cycle is to continue uninterrupted. The regeneration steps require one ATP for phosphorylation to form RuBP."
+  },
+  {
+    "id": "definition-580",
+    "chapter": "THE C4 PATHWAY",
+    "title": "Bundle sheath cells",
+    "content": "The particularly large cells around the vascular bundles of the C4 plants are called bundle sheath cells, and the leaves which have such anatomy are said to have ‘Kranz’ anatomy. The bundle sheath cells may form several layers around the vascular bundles; they are characterised by having a large number of chloroplasts, thick walls impervious to gaseous exchange and no intercellular spaces."
+  },
+  {
+    "id": "definition-581",
+    "chapter": "THE C4 PATHWAY",
+    "title": "Kranz anatomy",
+    "content": "The particularly large cells around the vascular bundles of the C4 plants are called bundle sheath cells, and the leaves which have such anatomy are said to have ‘Kranz’ anatomy. ‘Kranz’ means ‘wreath’ and is a reflection of the arrangement of cells."
+  },
+  {
+    "id": "definition-582",
+    "chapter": "THE C4 PATHWAY",
+    "title": "Hatch and Slack Pathway",
+    "content": "This pathway (C4 pathway) that has been named the Hatch and Slack Pathway, is again a cyclic process."
+  },
+  {
+    "id": "definition-583",
+    "chapter": "THE C4 PATHWAY",
+    "title": "Phosphoenol pyruvate (PEP)",
+    "content": "The primary CO2 acceptor is a 3-carbon molecule phosphoenol pyruvate (PEP) and is present in the mesophyll cells."
+  },
+  {
+    "id": "definition-584",
+    "chapter": "THE C4 PATHWAY",
+    "title": "PEP carboxylase or PEPcase",
+    "content": "The enzyme responsible for this fixation (of CO2 by PEP) is PEP carboxylase or PEPcase. It is important to register that the mesophyll cells lack RuBisCO enzyme."
+  },
+  {
+    "id": "definition-585",
+    "chapter": "PHOTORESPIRATION",
+    "title": "Photorespiration",
+    "content": "In C3 plants some O2 does bind to RuBisCO, and hence CO2 fixation is decreased. Here the RuBP instead of being converted to 2 molecules of PGA binds with O2 to form one molecule of phosphoglycerate and phosphoglycolate (2 Carbon) in a pathway called photorespiration. In the photorespiratory pathway, there is neither synthesis of sugars, nor of ATP. Rather it results in the release of CO2 with the utilisation of ATP. In the photorespiratory pathway there is no synthesis of ATP or NADPH. The biological function of photorespiration is not known yet."
+  },
+  {
+    "id": "definition-586",
+    "chapter": "FACTORS AFFECTING PHOTOSYNTHESIS",
+    "title": "Law of Limiting Factors (Blackman’s Law)",
+    "content": "When several factors affect any [bio] chemical process, Blackman’s (1905) Law of Limiting Factors comes into effect. This states the following: If a chemical process is affected by more than one factor, then its rate will be determined by the factor which is nearest to its minimal value: it is the factor which directly affects the process if its quantity is changed."
+  }
+]
