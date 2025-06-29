@@ -12,14 +12,10 @@ npm install axios
 •	Accepts props like title, content, etc.  
 •	Used in App.jsx to display all chapters.  
 
-4. Created Component: ScrollToTopButton.jsx  
-•	Displays a button that lets users scroll smoothly back to the top of the page.  
-•	Button appears after scrolling down a certain distance.  
-
-5. Created Chapter Data File: chapters.js  
+4. Created Chapter Data File: chapters.js  
 To store chapter data and display in card.  
 
-6. Main Logic in App.jsx  
+5. Main Logic in App.jsx  
 •	Imported chapter data from chapters.js.  
 •	Mapped over the chapters array to render ChapterCard for each.  
 •	Handled search feature   
@@ -31,7 +27,7 @@ Your App.jsx file is the central hub of the frontend app. It:
 •	Displays search results or static chapters,  
 •	And includes a scroll-to-top feature.  
 
-7. Styling in styles.css  
+6. Styling in styles.css  
 •	Applied custom styles to:  
 o	ChapterCard layout  
 o	Scroll button appearance  
