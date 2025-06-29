@@ -21,10 +21,10 @@ Instead of installing each manually with pip install, we used:
 
 pip install -r requirements.txt
 
-This command:
-•	Reads each line in requirements.txt
-•	Installs all packages (and their dependencies)
-•	Ensures clean, consistent setup on any machine
+This command:  
+•	Reads each line in requirements.txt  
+•	Installs all packages (and their dependencies)  
+•	Ensures clean, consistent setup on any machine  
 
 ✅ fastapi
 Purpose:
