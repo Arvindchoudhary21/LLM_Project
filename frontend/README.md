@@ -20,7 +20,7 @@ To store chapter data and display in card.
 •	Mapped over the chapters array to render ChapterCard for each.  
 •	Handled search feature   
 •	Used axios for API interaction.  
-Your App.jsx file is the central hub of the frontend app. It:  
+App.jsx file is the central hub of the frontend app. It:  
 •	Manages theme (light/dark),  
 •	Handles user search input,  
 •	Connects with the backend,  
