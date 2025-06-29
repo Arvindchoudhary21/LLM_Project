@@ -1,6 +1,6 @@
 # Backend
 
-1. Set up the project
+step 1: Set up the project
 
 Created a Python project folder named backend
 
