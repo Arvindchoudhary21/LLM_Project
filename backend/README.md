@@ -143,24 +143,18 @@ It is specially fine-tuned to:
 •	Delivers great performance for semantic search  
 •	Works perfectly with Qdrant vector database  
 
-2. What LLM Are You Using?  
-We are using the all-MiniLM-L6-v2 model from Hugging Face via sentence-transformers.  
-This model is not a full GPT-type LLM, but a sentence-level transformer trained to:  
-✨ Convert a piece of text into a fixed-size vector that captures its meaning  
-So it’s LLM-powered embeddings, not full natural language generation.  
-
-3. Embeddings Go Into Qdrant  
+2. Embeddings Go Into Qdrant  
 •	Those vectors are stored in a vector database: Qdrant  
 •	Each vector is tied to a title, content, and chapter_id  
 
-4. User Types a Query  
+3. User Types a Query  
 •	The query (e.g., “what is genus?”) is also sent to the same embedding model → converted to a vector  
 
-5. Qdrant Does Vector Similarity Search  
+4. Qdrant Does Vector Similarity Search  
 Qdrant compares the query vector to all the stored vectors using cosine similarity.  
 🔍 It finds the most similar vector (i.e., content semantically close to the user’s question)  
 
-6. Backend Sends Top Result to Frontend  
+5. Backend Sends Top Result to Frontend  
 •	The top result (title + content) is returned from FastAPI  
 •	Displayed on frontend in a ChapterCard component  
 
